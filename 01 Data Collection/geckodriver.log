@@ -9765,3 +9765,9 @@ See /usr/include/servers/bootstrap_defs.h for the error codes.
 JavaScript error: http://a.espncdn.com/redesign/0.398.8/js/espn-defer.js, line 15: TypeError: this.bettingOdds is undefined
 2018-06-07 16:15:45.227 plugin-container[2478:223102] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7e03, name = 'com.apple.tsm.portname'
 See /usr/include/servers/bootstrap_defs.h for the error codes.
+1528371868343	geckodriver	INFO	geckodriver 0.19.1
+1528371868347	geckodriver	INFO	Listening on 127.0.0.1:49353
+1528371869375	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.z5sdpiDozEFc"
+1528371873822	Marionette	INFO	Listening on port 42237
+1528371874102	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://a.espncdn.com/redesign/0.398.8/js/espn-defer.js, line 15: TypeError: this.bettingOdds is undefined
