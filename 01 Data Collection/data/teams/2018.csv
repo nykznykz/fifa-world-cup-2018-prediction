@@ -1,0 +1,742 @@
+,name,link,age,value
+0,Mathew Ryan,https://www.transfermarkt.co.uk/mathew-ryan/nationalmannschaft/spieler/128969,26,£7.20m  
+1,Danny Vukovic,https://www.transfermarkt.co.uk/danny-vukovic/nationalmannschaft/spieler/43113,33,£900k  
+2,Trent Sainsbury,https://www.transfermarkt.co.uk/trent-sainsbury/nationalmannschaft/spieler/145840,26,£900k  
+3,Aziz Behich,https://www.transfermarkt.co.uk/aziz-behich/nationalmannschaft/spieler/136834,27,£2.48m  
+4,Joshua Risdon,https://www.transfermarkt.co.uk/joshua-risdon/nationalmannschaft/spieler/160614,25,£675k  
+5,Jackson Irvine,https://www.transfermarkt.co.uk/jackson-irvine/nationalmannschaft/spieler/192557,25,£1.80m  
+6,Aaron Mooy,https://www.transfermarkt.co.uk/aaron-mooy/nationalmannschaft/spieler/123951,27,£9.00m  
+7,Tom Rogic,https://www.transfermarkt.co.uk/tom-rogic/nationalmannschaft/spieler/213672,25,£2.25m  
+8,Tim Cahill,https://www.transfermarkt.co.uk/tim-cahill/nationalmannschaft/spieler/13556,38,£450k  
+9,Mathew Leckie,https://www.transfermarkt.co.uk/mathew-leckie/nationalmannschaft/spieler/126214,27,£3.60m  
+10,Tomi Juric,https://www.transfermarkt.co.uk/tomi-juric/nationalmannschaft/spieler/171820,26,£2.25m  
+11,Andrew Nabbout ,https://www.transfermarkt.co.uk/andrew-nabbout/nationalmannschaft/spieler/247289,25,£495k  
+12,Brad Jones,https://www.transfermarkt.co.uk/brad-jones/nationalmannschaft/spieler/4042,36,£900k  
+13,Matthew Jurman,https://www.transfermarkt.co.uk/matthew-jurman/nationalmannschaft/spieler/68499,28,£990k  
+14,Milos Degenek ,https://www.transfermarkt.co.uk/milos-degenek/nationalmannschaft/spieler/187353,24,£720k  
+15,James Meredith,https://www.transfermarkt.co.uk/james-meredith/nationalmannschaft/spieler/48111,30,£675k  
+16,Mile Jedinak ,https://www.transfermarkt.co.uk/mile-jedinak/nationalmannschaft/spieler/28336,33,£2.25m  
+17,Mark Milligan,https://www.transfermarkt.co.uk/mark-milligan/nationalmannschaft/spieler/37372,32,£765k  
+18,Massimo Luongo,https://www.transfermarkt.co.uk/massimo-luongo/nationalmannschaft/spieler/181687,25,£4.05m  
+19,Dimitri Petratos,https://www.transfermarkt.co.uk/dimitri-petratos/nationalmannschaft/spieler/153882,25,£720k  
+20,Robbie Kruse,https://www.transfermarkt.co.uk/robbie-kruse/nationalmannschaft/spieler/51972,29,£810k  
+21,Daniel Arzani .,https://www.transfermarkt.co.uk/daniel-arzani/nationalmannschaft/spieler/399997,19,£450k  
+22,Jamie Maclaren,https://www.transfermarkt.co.uk/jamie-maclaren/nationalmannschaft/spieler/173591,24,£900k  
+23,Roman Bürki,https://www.transfermarkt.co.uk/roman-burki/profil/spieler/59027,"Nov 14, 1990 (27)",£6.30m  
+24,Roman Weidenfeller,https://www.transfermarkt.co.uk/roman-weidenfeller/profil/spieler/26,"Aug 6, 1980 (37)",- 
+25,Sokratis,https://www.transfermarkt.co.uk/sokratis/profil/spieler/34322,"Jun 9, 1988 (30)",£18.00m  
+26,Dan-Axel Zagadou,https://www.transfermarkt.co.uk/dan-axel-zagadou/profil/spieler/344598,"Jun 3, 1999 (19)",£4.50m  
+27,Marcel Schmelzer ,https://www.transfermarkt.co.uk/marcel-schmelzer/profil/spieler/35208,"Jan 22, 1988 (30)",£4.50m  
+28,Lukasz Piszczek,https://www.transfermarkt.co.uk/lukasz-piszczek/profil/spieler/25727,"Jun 3, 1985 (33)",£3.60m  
+29,Julian Weigl,https://www.transfermarkt.co.uk/julian-weigl/profil/spieler/196792,"Sep 8, 1995 (22)",£27.00m  
+30,Mahmoud Dahoud,https://www.transfermarkt.co.uk/mahmoud-dahoud/profil/spieler/191422,"Jan 1, 1996 (22)",£16.20m  
+31,Sebastian Rode ,https://www.transfermarkt.co.uk/sebastian-rode/profil/spieler/44466,"Oct 11, 1990 (27)",£2.70m  
+32,Shinji Kagawa,https://www.transfermarkt.co.uk/shinji-kagawa/profil/spieler/81785,"Mar 17, 1989 (29)",£11.70m  
+33,Marco Reus,https://www.transfermarkt.co.uk/marco-reus/profil/spieler/35207,"May 31, 1989 (29)",£31.50m  
+34,Jadon Sancho,https://www.transfermarkt.co.uk/jadon-sancho/profil/spieler/401173,"Mar 25, 2000 (18)",£13.50m  
+35,Christian Pulisic,https://www.transfermarkt.co.uk/christian-pulisic/profil/spieler/315779,"Sep 18, 1998 (19)",£40.50m  
+36,Michy Batshuayi,https://www.transfermarkt.co.uk/michy-batshuayi/profil/spieler/179184,"Oct 2, 1993 (24)",£36.00m  
+37,Dominik Reimann,https://www.transfermarkt.co.uk/dominik-reimann/profil/spieler/238722,"Jun 18, 1997 (21)",£180k  
+38,Manuel Akanji,https://www.transfermarkt.co.uk/manuel-akanji/profil/spieler/284730,"Jul 19, 1995 (22)",£19.80m  
+39,Ömer Toprak,https://www.transfermarkt.co.uk/omer-toprak/profil/spieler/43512,"Jul 21, 1989 (28)",£10.80m  
+40,Raphaël Guerreiro,https://www.transfermarkt.co.uk/raphael-guerreiro/profil/spieler/170986,"Dec 22, 1993 (24)",£16.20m  
+41,Jeremy Toljan,https://www.transfermarkt.co.uk/jeremy-toljan/profil/spieler/129674,"Aug 8, 1994 (23)",£4.50m  
+42,Erik Durm ,https://www.transfermarkt.co.uk/erik-durm/profil/spieler/93922,"May 12, 1992 (26)",£900k  
+43,Nuri Sahin,https://www.transfermarkt.co.uk/nuri-sahin/profil/spieler/31095,"Sep 5, 1988 (29)",£4.05m  
+44,Gonzalo Castro,https://www.transfermarkt.co.uk/gonzalo-castro/profil/spieler/28947,"Jun 11, 1987 (31)",£7.20m  
+45,Mario Götze,https://www.transfermarkt.co.uk/mario-gotze/profil/spieler/74842,"Jun 3, 1992 (26)",£16.20m  
+46,Sergio Gómez,https://www.transfermarkt.co.uk/sergio-gomez/profil/spieler/366930,"Sep 4, 2000 (17)",£1.80m  
+47,Maximilian Philipp,https://www.transfermarkt.co.uk/maximilian-philipp/profil/spieler/143891,"Mar 1, 1994 (24)",£18.00m  
+48,André Schürrle,https://www.transfermarkt.co.uk/andre-schurrle/profil/spieler/58205,"Nov 6, 1990 (27)",£13.50m  
+49,Andriy Yarmolenko,https://www.transfermarkt.co.uk/andriy-yarmolenko/profil/spieler/69015,"Oct 23, 1989 (28)",£20.70m  
+50,Alexander Isak,https://www.transfermarkt.co.uk/alexander-isak/profil/spieler/349066,"Sep 21, 1999 (18)",£5.40m  
+51,David Ospina,https://www.transfermarkt.co.uk/david-ospina/nationalmannschaft/spieler/73396,29,£4.50m  
+52,José Cuadrado,https://www.transfermarkt.co.uk/jose-cuadrado/nationalmannschaft/spieler/74057,33,£720k  
+53,Yerry Mina,https://www.transfermarkt.co.uk/yerry-mina/nationalmannschaft/spieler/289446,23,£8.10m  
+54,Óscar Murillo,https://www.transfermarkt.co.uk/oscar-murillo/nationalmannschaft/spieler/77176,30,£2.25m  
+55,Farid Díaz,https://www.transfermarkt.co.uk/farid-diaz/nationalmannschaft/spieler/74623,34,£270k  
+56,Wilmar Barrios,https://www.transfermarkt.co.uk/wilmar-barrios/nationalmannschaft/spieler/257668,24,£7.20m  
+57,Jefferson Lerma,https://www.transfermarkt.co.uk/jefferson-lerma/nationalmannschaft/spieler/262980,23,£1.80m  
+58,Mateus Uribe .,https://www.transfermarkt.co.uk/mateus-uribe/nationalmannschaft/spieler/214538,27,£3.15m  
+59,Juan Quintero,https://www.transfermarkt.co.uk/juan-quintero/nationalmannschaft/spieler/122582,25,£3.15m  
+60,Juan Cuadrado,https://www.transfermarkt.co.uk/juan-cuadrado/nationalmannschaft/spieler/91970,30,£25.20m  
+61,Luis Muriel,https://www.transfermarkt.co.uk/luis-muriel/nationalmannschaft/spieler/119228,27,£10.80m  
+62,Miguel Borja,https://www.transfermarkt.co.uk/miguel-borja/nationalmannschaft/spieler/211397,25,£4.50m  
+63,Camilo Vargas,https://www.transfermarkt.co.uk/camilo-vargas/nationalmannschaft/spieler/74113,29,£900k  
+64,Davinson Sánchez,https://www.transfermarkt.co.uk/davinson-sanchez/nationalmannschaft/spieler/341429,22,£36.00m  
+65,Cristián Zapata,https://www.transfermarkt.co.uk/cristian-zapata/nationalmannschaft/spieler/34344,31,£2.25m  
+66,Johan Mojica,https://www.transfermarkt.co.uk/johan-mojica/nationalmannschaft/spieler/262939,25,£3.60m  
+67,Santiago Arias,https://www.transfermarkt.co.uk/santiago-arias/nationalmannschaft/spieler/120443,26,£13.50m  
+68,Carlos Sánchez ,https://www.transfermarkt.co.uk/carlos-sanchez/nationalmannschaft/spieler/51226,32,£1.80m  
+69,Abel Aguilar,https://www.transfermarkt.co.uk/abel-aguilar/nationalmannschaft/spieler/37388,33,£900k  
+70,James Rodríguez,https://www.transfermarkt.co.uk/james-rodriguez/nationalmannschaft/spieler/88103,26,£63.00m  
+71,José Izquierdo,https://www.transfermarkt.co.uk/jose-izquierdo/nationalmannschaft/spieler/147094,25,£12.60m  
+72,Falcao ,https://www.transfermarkt.co.uk/falcao/nationalmannschaft/spieler/39152,32,£10.80m  
+73,Carlos Bacca,https://www.transfermarkt.co.uk/carlos-bacca/nationalmannschaft/spieler/119235,31,£9.00m  
+74,Alfred Gomis,https://www.transfermarkt.co.uk/alfred-gomis/nationalmannschaft/spieler/163568,24,£2.70m  
+75,Khadim N'Diaye,https://www.transfermarkt.co.uk/khadim-ndiaye/nationalmannschaft/spieler/144070,33,£225k  
+76,Salif Sané,https://www.transfermarkt.co.uk/salif-sane/nationalmannschaft/spieler/126534,27,£16.20m  
+77,Adama Mbengue,https://www.transfermarkt.co.uk/adama-mbengue/nationalmannschaft/spieler/230066,24,£2.70m  
+78,Lamine Gassama,https://www.transfermarkt.co.uk/lamine-gassama/nationalmannschaft/spieler/60539,28,£1.13m  
+79,Cheikhou Kouyaté ,https://www.transfermarkt.co.uk/cheikhou-kouyate/nationalmannschaft/spieler/66934,28,£10.80m  
+80,Idrissa Gueye,https://www.transfermarkt.co.uk/idrissa-gueye/nationalmannschaft/spieler/126665,28,£18.00m  
+81,Cheikh N'Doye,https://www.transfermarkt.co.uk/cheikh-ndoye/nationalmannschaft/spieler/282058,32,£2.25m  
+82,Keita Baldé,https://www.transfermarkt.co.uk/keita-balde/nationalmannschaft/spieler/238752,23,£27.00m  
+83,M'Baye Niang,https://www.transfermarkt.co.uk/mbaye-niang/nationalmannschaft/spieler/157501,23,£9.00m  
+84,Moussa Konaté,https://www.transfermarkt.co.uk/moussa-konate/nationalmannschaft/spieler/192774,25,£5.40m  
+85,Moussa Sow,https://www.transfermarkt.co.uk/moussa-sow/nationalmannschaft/spieler/22382,32,£1.35m  
+86,Abdoulaye Diallo,https://www.transfermarkt.co.uk/abdoulaye-diallo/nationalmannschaft/spieler/126681,26,£900k  
+87,Kalidou Koulibaly,https://www.transfermarkt.co.uk/kalidou-koulibaly/nationalmannschaft/spieler/93128,27,£54.00m  
+88,Kara,https://www.transfermarkt.co.uk/kara/nationalmannschaft/spieler/141828,28,£6.30m  
+89,Youssouf Sabaly ,https://www.transfermarkt.co.uk/youssouf-sabaly/nationalmannschaft/spieler/135492,25,£6.30m  
+90,Moussa Wagué,https://www.transfermarkt.co.uk/moussa-wague/nationalmannschaft/spieler/364240,19,£900k  
+91,Alfred N'Diaye,https://www.transfermarkt.co.uk/alfred-ndiaye/nationalmannschaft/spieler/77737,28,£4.50m  
+92,Badou Ndiaye,https://www.transfermarkt.co.uk/badou-ndiaye/nationalmannschaft/spieler/211325,27,£13.50m  
+93,Sadio Mané,https://www.transfermarkt.co.uk/sadio-mane/nationalmannschaft/spieler/200512,26,£63.00m  
+94,Ismaïla Sarr,https://www.transfermarkt.co.uk/ismaila-sarr/nationalmannschaft/spieler/410225,20,£12.60m  
+95,Mame Diouf,https://www.transfermarkt.co.uk/mame-diouf/nationalmannschaft/spieler/62049,30,£6.30m  
+96,Diafra Sakho,https://www.transfermarkt.co.uk/diafra-sakho/nationalmannschaft/spieler/120610,28,£4.50m  
+97,Mohammed Al-Owais,https://www.transfermarkt.co.uk/mohammed-al-owais/nationalmannschaft/spieler/262845,26,£855k  
+98,Abdullah Al-Muaiouf,https://www.transfermarkt.co.uk/abdullah-al-muaiouf/nationalmannschaft/spieler/147866,31,£540k  
+99,Omar Hawsawi,https://www.transfermarkt.co.uk/omar-hawsawi/nationalmannschaft/spieler/180216,32,£675k  
+100,Ali Al-Boleahi,https://www.transfermarkt.co.uk/ali-al-boleahi/nationalmannschaft/spieler/229877,28,£315k  
+101,Mansour Al-Harbi,https://www.transfermarkt.co.uk/mansour-al-harbi/nationalmannschaft/spieler/149862,30,£540k  
+102,Abdullah Ateef,https://www.transfermarkt.co.uk/abdullah-ateef/nationalmannschaft/spieler/193159,25,£878k  
+103,Abdullah Al-Khaibari,https://www.transfermarkt.co.uk/abdullah-al-khaibari/nationalmannschaft/spieler/437903,21,£158k  
+104,Hussain Al-Moqahwi,https://www.transfermarkt.co.uk/hussain-al-moqahwi/nationalmannschaft/spieler/159675,30,£900k  
+105,Mohamed Kanno,https://www.transfermarkt.co.uk/mohamed-kanno/nationalmannschaft/spieler/308120,23,£585k  
+106,Yahia Al-Shehri,https://www.transfermarkt.co.uk/yahia-al-shehri/nationalmannschaft/spieler/150788,27,£720k  
+107,Salem Al-Dawsari,https://www.transfermarkt.co.uk/salem-al-dawsari/nationalmannschaft/spieler/195332,26,£720k  
+108,Mohammed Al-Sahlawi,https://www.transfermarkt.co.uk/mohammed-al-sahlawi/nationalmannschaft/spieler/150787,31,£585k  
+109,Yasser Al-Mosailem,https://www.transfermarkt.co.uk/yasser-al-mosailem/nationalmannschaft/spieler/147865,34,£810k  
+110,Motaz Hawsawi,https://www.transfermarkt.co.uk/motaz-hawsawi/nationalmannschaft/spieler/193169,26,£1.08m  
+111,Osama Hawsawi ,https://www.transfermarkt.co.uk/osama-hawsawi/nationalmannschaft/spieler/86054,34,£608k  
+112,Yasir Al-Shahrani,https://www.transfermarkt.co.uk/yasir-al-shahrani/nationalmannschaft/spieler/171915,26,£1.35m  
+113,Mohammed Al-Burayk,https://www.transfermarkt.co.uk/mohammed-al-burayk/nationalmannschaft/spieler/379058,25,£1.17m  
+114,Abdulmalek Al-Khaibri,https://www.transfermarkt.co.uk/abdulmalek-al-khaibri/nationalmannschaft/spieler/153526,32,£225k  
+115,Salman Al-Faraj,https://www.transfermarkt.co.uk/salman-al-faraj/nationalmannschaft/spieler/155487,28,£990k  
+116,Taiseer Al-Jassam ,https://www.transfermarkt.co.uk/taiseer-al-jassam/nationalmannschaft/spieler/93465,33,£675k  
+117,Hatan Bahbir ,https://www.transfermarkt.co.uk/hatan-bahbir/nationalmannschaft/spieler/201379,25,£810k  
+118,Fahad Al-Muwallad,https://www.transfermarkt.co.uk/fahad-al-muwallad/nationalmannschaft/spieler/193153,23,£900k  
+119,Muhannad Asiri,https://www.transfermarkt.co.uk/muhannad-asiri/nationalmannschaft/spieler/153347,31,£855k  
+120,Keylor Navas,https://www.transfermarkt.co.uk/keylor-navas/nationalmannschaft/spieler/79422,31,£16.20m  
+121,Patrick Pemberton,https://www.transfermarkt.co.uk/patrick-pemberton/nationalmannschaft/spieler/102376,36,£248k  
+122,Óscar Duarte,https://www.transfermarkt.co.uk/oscar-duarte/nationalmannschaft/spieler/175323,29,£900k  
+123,Francisco Calvo,https://www.transfermarkt.co.uk/francisco-calvo/nationalmannschaft/spieler/188470,25,£675k  
+124,Jhonny Acosta,https://www.transfermarkt.co.uk/jhonny-acosta/nationalmannschaft/spieler/187768,34,£180k  
+125,Cristian Gamboa,https://www.transfermarkt.co.uk/cristian-gamboa/nationalmannschaft/spieler/121686,28,£1.13m  
+126,David Guzmán,https://www.transfermarkt.co.uk/david-guzman/nationalmannschaft/spieler/124978,28,£720k  
+127,Randall Azofeifa,https://www.transfermarkt.co.uk/randall-azofeifa/nationalmannschaft/spieler/39564,33,£270k  
+128,Johan Venegas,https://www.transfermarkt.co.uk/johan-venegas/nationalmannschaft/spieler/195424,29,£540k  
+129,Rodney Wallace,https://www.transfermarkt.co.uk/rodney-wallace/nationalmannschaft/spieler/99859,30,£900k  
+130,Joel Campbell,https://www.transfermarkt.co.uk/joel-campbell/nationalmannschaft/spieler/131248,25,£2.70m  
+131,Marcos Ureña,https://www.transfermarkt.co.uk/marcos-urena/nationalmannschaft/spieler/118074,28,£810k  
+132,Leonel Moreira,https://www.transfermarkt.co.uk/leonel-moreira/nationalmannschaft/spieler/126911,28,£315k  
+133,Giancarlo González,https://www.transfermarkt.co.uk/giancarlo-gonzalez/nationalmannschaft/spieler/111893,30,£1.26m  
+134,Kendall Waston,https://www.transfermarkt.co.uk/kendall-waston/nationalmannschaft/spieler/195540,30,£765k  
+135,Kenner Gutiérrez,https://www.transfermarkt.co.uk/kenner-gutierrez/nationalmannschaft/spieler/128520,29,£248k  
+136,Bryan Oviedo,https://www.transfermarkt.co.uk/bryan-oviedo/nationalmannschaft/spieler/124983,28,£1.80m  
+137,Ian Smith,https://www.transfermarkt.co.uk/ian-smith/nationalmannschaft/spieler/372735,20,£90k  
+138,Yeltsin Tejeda,https://www.transfermarkt.co.uk/yeltsin-tejeda/nationalmannschaft/spieler/194218,26,£675k  
+139,Celso Borges,https://www.transfermarkt.co.uk/celso-borges/nationalmannschaft/spieler/81532,30,£3.60m  
+140,Bryan Ruíz ,https://www.transfermarkt.co.uk/bryan-ruiz/nationalmannschaft/spieler/39642,32,£1.35m  
+141,Daniel Colindres,https://www.transfermarkt.co.uk/daniel-colindres/nationalmannschaft/spieler/195279,33,£293k  
+142,Christian Bolaños,https://www.transfermarkt.co.uk/christian-bolanos/nationalmannschaft/spieler/38163,34,£338k  
+143,Mouez Hassen ,https://www.transfermarkt.co.uk/mouez-hassen/nationalmannschaft/spieler/215677,23,£900k  
+144,Balbouli,https://www.transfermarkt.co.uk/balbouli/nationalmannschaft/spieler/63068,33,£630k  
+145,Yassine Meriah,https://www.transfermarkt.co.uk/yassine-meriah/nationalmannschaft/spieler/306330,24,£1.08m  
+146,Syam Ben Youssef ,https://www.transfermarkt.co.uk/syam-ben-youssef/nationalmannschaft/spieler/133078,29,£720k  
+147,Oussama Haddadi,https://www.transfermarkt.co.uk/oussama-haddadi/nationalmannschaft/spieler/191407,26,£2.70m  
+148,Hamdi Nagguez,https://www.transfermarkt.co.uk/hamdi-nagguez/nationalmannschaft/spieler/272664,25,£1.08m  
+149,Mohamed Amine Ben Amor,https://www.transfermarkt.co.uk/mohamed-amine-ben-amor/nationalmannschaft/spieler/334991,26,£1.71m  
+150,Ferjani Sassi,https://www.transfermarkt.co.uk/ferjani-sassi/nationalmannschaft/spieler/191903,26,£1.44m  
+151,Wahbi Khazri ,https://www.transfermarkt.co.uk/wahbi-khazri/nationalmannschaft/spieler/103565,27,£9.00m  
+152,Naïm Sliti,https://www.transfermarkt.co.uk/naim-sliti/nationalmannschaft/spieler/184491,25,£6.30m  
+153,Anice Badri,https://www.transfermarkt.co.uk/anice-badri/nationalmannschaft/spieler/164925,27,£1.08m  
+154,Saber Khalifa,https://www.transfermarkt.co.uk/saber-khalifa/nationalmannschaft/spieler/69101,31,£900k  
+155,Farouk Ben Mustapha,https://www.transfermarkt.co.uk/farouk-ben-mustapha/nationalmannschaft/spieler/122351,28,£698k  
+156,Dylan Bronn ,https://www.transfermarkt.co.uk/dylan-bronn/nationalmannschaft/spieler/450417,23,£3.15m  
+157,Yohan Benalouane,https://www.transfermarkt.co.uk/yohan-benalouane/nationalmannschaft/spieler/50477,31,£900k  
+158,Rami Bedoui,https://www.transfermarkt.co.uk/rami-bedoui/nationalmannschaft/spieler/153124,28,£720k  
+159,Ali Maâloul,https://www.transfermarkt.co.uk/ali-maaloul/nationalmannschaft/spieler/133042,28,£1.35m  
+160,Ellyes Skhiri,https://www.transfermarkt.co.uk/ellyes-skhiri/nationalmannschaft/spieler/290587,23,£9.00m  
+161,Ahmed Khalil,https://www.transfermarkt.co.uk/ahmed-khalil/nationalmannschaft/spieler/290993,23,£720k  
+162,Ghaylène Chaalali,https://www.transfermarkt.co.uk/ghaylene-chaalali/nationalmannschaft/spieler/346776,24,£810k  
+163,Saîf-Eddine Khaoui,https://www.transfermarkt.co.uk/saif-eddine-khaoui/nationalmannschaft/spieler/270411,23,£4.50m  
+164,Bassem Srarfi,https://www.transfermarkt.co.uk/bassem-srarfi/nationalmannschaft/spieler/401836,20,£2.70m  
+165,Fakhreddine Ben Youssef,https://www.transfermarkt.co.uk/fakhreddine-ben-youssef/nationalmannschaft/spieler/218058,27,£900k  
+166,Marc-André ter Stegen,https://www.transfermarkt.co.uk/marc-andre-ter-stegen/nationalmannschaft/spieler/74857,26,£54.00m  
+167,Kevin Trapp,https://www.transfermarkt.co.uk/kevin-trapp/nationalmannschaft/spieler/45672,27,£7.20m  
+168,Jérôme Boateng ,https://www.transfermarkt.co.uk/jerome-boateng/nationalmannschaft/spieler/26485,29,£40.50m  
+169,Niklas Süle,https://www.transfermarkt.co.uk/niklas-sule/nationalmannschaft/spieler/166601,22,£34.20m  
+170,Marvin Plattenhardt,https://www.transfermarkt.co.uk/marvin-plattenhardt/nationalmannschaft/spieler/89592,26,£13.50m  
+171,Joshua Kimmich,https://www.transfermarkt.co.uk/joshua-kimmich/nationalmannschaft/spieler/161056,23,£49.50m  
+172,Toni Kroos,https://www.transfermarkt.co.uk/toni-kroos/nationalmannschaft/spieler/31909,28,£72.00m  
+173,Ilkay Gündogan,https://www.transfermarkt.co.uk/ilkay-gundogan/nationalmannschaft/spieler/53622,27,£36.00m  
+174,Mesut Özil,https://www.transfermarkt.co.uk/mesut-ozil/nationalmannschaft/spieler/35664,29,£45.00m  
+175,Julian Draxler,https://www.transfermarkt.co.uk/julian-draxler/nationalmannschaft/spieler/85148,24,£31.50m  
+176,Thomas Müller .,https://www.transfermarkt.co.uk/thomas-muller/nationalmannschaft/spieler/58358,28,£54.00m  
+177,Mario Gómez,https://www.transfermarkt.co.uk/mario-gomez/nationalmannschaft/spieler/6288,32,£5.40m  
+178,Manuel Neuer ,https://www.transfermarkt.co.uk/manuel-neuer/nationalmannschaft/spieler/17259,32,£31.50m  
+179,Mats Hummels,https://www.transfermarkt.co.uk/mats-hummels/nationalmannschaft/spieler/39728,29,£54.00m  
+180,Antonio Rüdiger,https://www.transfermarkt.co.uk/antonio-rudiger/nationalmannschaft/spieler/86202,25,£36.00m  
+181,Matthias Ginter,https://www.transfermarkt.co.uk/matthias-ginter/nationalmannschaft/spieler/124502,24,£22.50m  
+182,Jonas Hector,https://www.transfermarkt.co.uk/jonas-hector/nationalmannschaft/spieler/108537,28,£13.50m  
+183,Sebastian Rudy ,https://www.transfermarkt.co.uk/sebastian-rudy/nationalmannschaft/spieler/57051,28,£13.50m  
+184,Leon Goretzka,https://www.transfermarkt.co.uk/leon-goretzka/nationalmannschaft/spieler/153084,23,£36.00m  
+185,Sami Khedira,https://www.transfermarkt.co.uk/sami-khedira/nationalmannschaft/spieler/29401,31,£23.40m  
+186,Julian Brandt,https://www.transfermarkt.co.uk/julian-brandt/nationalmannschaft/spieler/187492,22,£36.00m  
+187,Marco Reus,https://www.transfermarkt.co.uk/marco-reus/nationalmannschaft/spieler/35207,29,£31.50m  
+188,Timo Werner,https://www.transfermarkt.co.uk/timo-werner/nationalmannschaft/spieler/170527,22,£54.00m  
+189,Wojciech Szczesny,https://www.transfermarkt.co.uk/wojciech-szczesny/nationalmannschaft/spieler/44058,28,£18.00m  
+190,Bartosz Bialkowski,https://www.transfermarkt.co.uk/bartosz-bialkowski/nationalmannschaft/spieler/24496,30,£675k  
+191,Jan Bednarek,https://www.transfermarkt.co.uk/jan-bednarek/nationalmannschaft/spieler/243028,22,£4.50m  
+192,Thiago Cionek,https://www.transfermarkt.co.uk/thiago-cionek/nationalmannschaft/spieler/79510,32,£720k  
+193,Lukasz Piszczek,https://www.transfermarkt.co.uk/lukasz-piszczek/nationalmannschaft/spieler/25727,33,£3.60m  
+194,Grzegorz Krychowiak,https://www.transfermarkt.co.uk/grzegorz-krychowiak/nationalmannschaft/spieler/45184,28,£16.20m  
+195,Piotr Zielinski,https://www.transfermarkt.co.uk/piotr-zielinski/nationalmannschaft/spieler/181136,24,£28.80m  
+196,Jakub Blaszczykowski,https://www.transfermarkt.co.uk/jakub-blaszczykowski/nationalmannschaft/spieler/29835,32,£900k  
+197,Rafal Kurzawa,https://www.transfermarkt.co.uk/rafal-kurzawa/nationalmannschaft/spieler/191895,25,£1.80m  
+198,Kamil Grosicki,https://www.transfermarkt.co.uk/kamil-grosicki/nationalmannschaft/spieler/37920,30,£6.30m  
+199,Arkadiusz Milik,https://www.transfermarkt.co.uk/arkadiusz-milik/nationalmannschaft/spieler/191891,24,£18.00m  
+200,Dawid Kownacki,https://www.transfermarkt.co.uk/dawid-kownacki/nationalmannschaft/spieler/208167,21,£6.30m  
+201,Lukasz Fabianski,https://www.transfermarkt.co.uk/lukasz-fabianski/nationalmannschaft/spieler/29692,33,£4.50m  
+202,Kamil Glik,https://www.transfermarkt.co.uk/kamil-glik/nationalmannschaft/spieler/46552,30,£16.20m  
+203,Michal Pazdan,https://www.transfermarkt.co.uk/michal-pazdan/nationalmannschaft/spieler/54512,30,£1.80m  
+204,Bartosz Bereszynski,https://www.transfermarkt.co.uk/bartosz-bereszynski/nationalmannschaft/spieler/144143,25,£10.80m  
+205,Artur Jedrzejczyk,https://www.transfermarkt.co.uk/artur-jedrzejczyk/nationalmannschaft/spieler/42401,30,£1.35m  
+206,Jacek Goralski,https://www.transfermarkt.co.uk/jacek-goralski/nationalmannschaft/spieler/199297,25,£2.25m  
+207,Karol Linetty,https://www.transfermarkt.co.uk/karol-linetty/nationalmannschaft/spieler/225873,23,£13.50m  
+208,Maciej Rybus,https://www.transfermarkt.co.uk/maciej-rybus/nationalmannschaft/spieler/59597,28,£2.88m  
+209,Slawomir Peszko,https://www.transfermarkt.co.uk/slawomir-peszko/nationalmannschaft/spieler/16956,33,£270k  
+210,Robert Lewandowski ,https://www.transfermarkt.co.uk/robert-lewandowski/nationalmannschaft/spieler/38253,29,£81.00m  
+211,Lukasz Teodorczyk,https://www.transfermarkt.co.uk/lukasz-teodorczyk/nationalmannschaft/spieler/157849,27,£6.75m  
+212,Hugo Lloris ,https://www.transfermarkt.co.uk/hugo-lloris/nationalmannschaft/spieler/17965,31,£22.50m  
+213,Steve Mandanda,https://www.transfermarkt.co.uk/steve-mandanda/nationalmannschaft/spieler/23951,33,£2.25m  
+214,Samuel Umtiti,https://www.transfermarkt.co.uk/samuel-umtiti/nationalmannschaft/spieler/126540,24,£54.00m  
+215,Presnel Kimpembe,https://www.transfermarkt.co.uk/presnel-kimpembe/nationalmannschaft/spieler/282041,22,£27.00m  
+216,Benjamin Mendy,https://www.transfermarkt.co.uk/benjamin-mendy/nationalmannschaft/spieler/157495,23,£36.00m  
+217,Djibril Sidibé,https://www.transfermarkt.co.uk/djibril-sidibe/nationalmannschaft/spieler/161869,25,£20.70m  
+218,Steven Nzonzi,https://www.transfermarkt.co.uk/steven-nzonzi/nationalmannschaft/spieler/73734,29,£27.00m  
+219,Corentin Tolisso,https://www.transfermarkt.co.uk/corentin-tolisso/nationalmannschaft/spieler/190393,23,£36.00m  
+220,Nabil Fekir,https://www.transfermarkt.co.uk/nabil-fekir/nationalmannschaft/spieler/203496,24,£54.00m  
+221,Kylian Mbappé,https://www.transfermarkt.co.uk/kylian-mbappe/nationalmannschaft/spieler/342229,19,£108.00m  
+222,Florian Thauvin,https://www.transfermarkt.co.uk/florian-thauvin/nationalmannschaft/spieler/184892,25,£45.00m  
+223,Olivier Giroud,https://www.transfermarkt.co.uk/olivier-giroud/nationalmannschaft/spieler/82442,31,£16.20m  
+224,Alphonse Areola,https://www.transfermarkt.co.uk/alphonse-areola/nationalmannschaft/spieler/120629,25,£13.50m  
+225,Raphaël Varane,https://www.transfermarkt.co.uk/raphael-varane/nationalmannschaft/spieler/164770,25,£63.00m  
+226,Benjamin Pavard,https://www.transfermarkt.co.uk/benjamin-pavard/nationalmannschaft/spieler/353366,22,£27.00m  
+227,Adil Rami,https://www.transfermarkt.co.uk/adil-rami/nationalmannschaft/spieler/51118,32,£6.30m  
+228,Lucas Hernández ,https://www.transfermarkt.co.uk/lucas-hernandez/nationalmannschaft/spieler/281963,22,£31.50m  
+229,N'Golo Kanté,https://www.transfermarkt.co.uk/ngolo-kante/nationalmannschaft/spieler/225083,27,£54.00m  
+230,Paul Pogba,https://www.transfermarkt.co.uk/paul-pogba/nationalmannschaft/spieler/122153,25,£81.00m  
+231,Blaise Matuidi,https://www.transfermarkt.co.uk/blaise-matuidi/nationalmannschaft/spieler/33923,31,£27.00m  
+232,Thomas Lemar .,https://www.transfermarkt.co.uk/thomas-lemar/nationalmannschaft/spieler/205562,22,£58.50m  
+233,Ousmane Dembélé,https://www.transfermarkt.co.uk/ousmane-dembele/nationalmannschaft/spieler/288230,21,£72.00m  
+234,Antoine Griezmann,https://www.transfermarkt.co.uk/antoine-griezmann/nationalmannschaft/spieler/125781,27,£90.00m  
+235,Alisson,https://www.transfermarkt.co.uk/alisson/nationalmannschaft/spieler/105470,25,£54.00m  
+236,Cássio,https://www.transfermarkt.co.uk/cassio/nationalmannschaft/spieler/50144,31,£3.60m  
+237,Thiago Silva,https://www.transfermarkt.co.uk/thiago-silva/nationalmannschaft/spieler/29241,33,£9.00m  
+238,Pedro Geromel,https://www.transfermarkt.co.uk/pedro-geromel/nationalmannschaft/spieler/32568,32,£4.50m  
+239,Filipe Luís,https://www.transfermarkt.co.uk/filipe-luis/nationalmannschaft/spieler/21725,32,£7.20m  
+240,Fágner,https://www.transfermarkt.co.uk/fagner/nationalmannschaft/spieler/47592,29,£4.50m  
+241,Fernandinho,https://www.transfermarkt.co.uk/fernandinho/nationalmannschaft/spieler/26267,33,£13.50m  
+242,Fred,https://www.transfermarkt.co.uk/fred/nationalmannschaft/spieler/191614,25,£28.80m  
+243,Philippe Coutinho,https://www.transfermarkt.co.uk/philippe-coutinho/nationalmannschaft/spieler/80444,26,£90.00m  
+244,Taison,https://www.transfermarkt.co.uk/taison/nationalmannschaft/spieler/76028,30,£9.90m  
+245,Willian,https://www.transfermarkt.co.uk/willian/nationalmannschaft/spieler/52769,29,£28.80m  
+246,Gabriel Jesus,https://www.transfermarkt.co.uk/gabriel-jesus/nationalmannschaft/spieler/363205,21,£72.00m  
+247,Ederson,https://www.transfermarkt.co.uk/ederson/nationalmannschaft/spieler/238223,24,£45.00m  
+248,Marquinhos,https://www.transfermarkt.co.uk/marquinhos/nationalmannschaft/spieler/181767,24,£49.50m  
+249,Miranda,https://www.transfermarkt.co.uk/miranda/nationalmannschaft/spieler/33357,33,£7.20m  
+250,Marcelo,https://www.transfermarkt.co.uk/marcelo/nationalmannschaft/spieler/44501,30,£54.00m  
+251,Danilo ,https://www.transfermarkt.co.uk/danilo/nationalmannschaft/spieler/145707,26,£18.00m  
+252,Casemiro,https://www.transfermarkt.co.uk/casemiro/nationalmannschaft/spieler/16306,26,£54.00m  
+253,Paulinho,https://www.transfermarkt.co.uk/paulinho/nationalmannschaft/spieler/57229,29,£36.00m  
+254,Renato Augusto,https://www.transfermarkt.co.uk/renato-augusto/nationalmannschaft/spieler/53058,30,£9.90m  
+255,Neymar ,https://www.transfermarkt.co.uk/neymar/nationalmannschaft/spieler/68290,26,£162.00m  
+256,Douglas Costa,https://www.transfermarkt.co.uk/douglas-costa/nationalmannschaft/spieler/75615,27,£49.50m  
+257,Roberto Firmino,https://www.transfermarkt.co.uk/roberto-firmino/nationalmannschaft/spieler/131789,26,£72.00m  
+258,Pedro Gallese,https://www.transfermarkt.co.uk/pedro-gallese/nationalmannschaft/spieler/95172,28,£900k  
+259,José Carvallo,https://www.transfermarkt.co.uk/jose-carvallo/nationalmannschaft/spieler/71092,32,£180k  
+260,Anderson Santamaría,https://www.transfermarkt.co.uk/anderson-santamaria/nationalmannschaft/spieler/142745,26,£450k  
+261,Alberto Rodríguez,https://www.transfermarkt.co.uk/alberto-rodriguez/nationalmannschaft/spieler/30543,34,£225k  
+262,Nilson Loyola,https://www.transfermarkt.co.uk/nilson-loyola/nationalmannschaft/spieler/333025,23,£383k  
+263,Aldo Corzo,https://www.transfermarkt.co.uk/aldo-corzo/nationalmannschaft/spieler/94437,29,£450k  
+264,Wilder Cartagena,https://www.transfermarkt.co.uk/wilder-cartagena/nationalmannschaft/spieler/224669,23,£360k  
+265,Yoshimar Yotún,https://www.transfermarkt.co.uk/yoshimar-yotun/nationalmannschaft/spieler/94880,28,£810k  
+266,Christian Cueva,https://www.transfermarkt.co.uk/christian-cueva/nationalmannschaft/spieler/95280,26,£2.70m  
+267,André Carrillo,https://www.transfermarkt.co.uk/andre-carrillo/nationalmannschaft/spieler/135057,27,£5.40m  
+268,Andy Polo,https://www.transfermarkt.co.uk/andy-polo/nationalmannschaft/spieler/189236,23,£810k  
+269,Paolo Guerrero ,https://www.transfermarkt.co.uk/paolo-guerrero/nationalmannschaft/spieler/2989,34,£2.70m  
+270,Carlos Cáceda,https://www.transfermarkt.co.uk/carlos-caceda/nationalmannschaft/spieler/94359,26,£450k  
+271,Christian Ramos,https://www.transfermarkt.co.uk/christian-ramos/nationalmannschaft/spieler/84506,29,£720k  
+272,Miguel Araujo,https://www.transfermarkt.co.uk/miguel-araujo/nationalmannschaft/spieler/211420,23,£450k  
+273,Miguel Trauco,https://www.transfermarkt.co.uk/miguel-trauco/nationalmannschaft/spieler/177690,25,£1.58m  
+274,Luis Advíncula,https://www.transfermarkt.co.uk/luis-advincula/nationalmannschaft/spieler/103890,28,£1.35m  
+275,Pedro Aquino,https://www.transfermarkt.co.uk/pedro-aquino/nationalmannschaft/spieler/273638,23,£900k  
+276,Renato Tapia .,https://www.transfermarkt.co.uk/renato-tapia/nationalmannschaft/spieler/277137,22,£3.60m  
+277,Paolo Hurtado,https://www.transfermarkt.co.uk/paolo-hurtado/nationalmannschaft/spieler/84318,27,£3.60m  
+278,Édison Flores,https://www.transfermarkt.co.uk/edison-flores/nationalmannschaft/spieler/194998,24,£360k  
+279,Jefferson Farfán,https://www.transfermarkt.co.uk/jefferson-farfan/nationalmannschaft/spieler/16649,33,£1.80m  
+280,Raúl Ruidíaz,https://www.transfermarkt.co.uk/raul-ruidiaz/nationalmannschaft/spieler/129724,27,£4.50m  
+281,Lovre Kalinic,https://www.transfermarkt.co.uk/lovre-kalinic/nationalmannschaft/spieler/46405,28,£5.85m  
+282,Dominik Livakovic,https://www.transfermarkt.co.uk/dominik-livakovic/nationalmannschaft/spieler/205927,23,£1.35m  
+283,Duje Caleta-Car,https://www.transfermarkt.co.uk/duje-caleta-car/nationalmannschaft/spieler/238266,21,£9.00m  
+284,Tin Jedvaj,https://www.transfermarkt.co.uk/tin-jedvaj/nationalmannschaft/spieler/206386,22,£4.50m  
+285,Ivan Strinic,https://www.transfermarkt.co.uk/ivan-strinic/nationalmannschaft/spieler/39799,30,£3.60m  
+286,Sime Vrsaljko,https://www.transfermarkt.co.uk/sime-vrsaljko/nationalmannschaft/spieler/76061,26,£22.50m  
+287,Filip Bradaric,https://www.transfermarkt.co.uk/filip-bradaric/nationalmannschaft/spieler/238486,26,£3.15m  
+288,Mateo Kovacic .,https://www.transfermarkt.co.uk/mateo-kovacic/nationalmannschaft/spieler/51471,24,£27.00m  
+289,Luka Modric ,https://www.transfermarkt.co.uk/luka-modric/nationalmannschaft/spieler/27992,32,£22.50m  
+290,Mario Mandzukic,https://www.transfermarkt.co.uk/mario-mandzukic/nationalmannschaft/spieler/34572,32,£16.20m  
+291,Ante Rebic,https://www.transfermarkt.co.uk/ante-rebic/nationalmannschaft/spieler/187587,24,£9.00m  
+292,Nikola Kalinic ,https://www.transfermarkt.co.uk/nikola-kalinic/nationalmannschaft/spieler/36371,30,£12.60m  
+293,Danijel Subasic,https://www.transfermarkt.co.uk/danijel-subasic/nationalmannschaft/spieler/27941,33,£4.05m  
+294,Dejan Lovren,https://www.transfermarkt.co.uk/dejan-lovren/nationalmannschaft/spieler/37838,28,£18.00m  
+295,Domagoj Vida,https://www.transfermarkt.co.uk/domagoj-vida/nationalmannschaft/spieler/46083,29,£6.30m  
+296,Vedran Corluka,https://www.transfermarkt.co.uk/vedran-corluka/nationalmannschaft/spieler/34393,32,£3.60m  
+297,Josip Pivaric,https://www.transfermarkt.co.uk/josip-pivaric/nationalmannschaft/spieler/45826,29,£1.80m  
+298,Milan Badelj,https://www.transfermarkt.co.uk/milan-badelj/nationalmannschaft/spieler/40633,29,£13.50m  
+299,Ivan Rakitic,https://www.transfermarkt.co.uk/ivan-rakitic/nationalmannschaft/spieler/32467,30,£45.00m  
+300,Marcelo Brozovic ,https://www.transfermarkt.co.uk/marcelo-brozovic/nationalmannschaft/spieler/156617,25,£24.30m  
+301,Ivan Perisic,https://www.transfermarkt.co.uk/ivan-perisic/nationalmannschaft/spieler/42460,29,£36.00m  
+302,Marko Pjaca,https://www.transfermarkt.co.uk/marko-pjaca/nationalmannschaft/spieler/205940,23,£13.50m  
+303,Andrej Kramaric,https://www.transfermarkt.co.uk/andrej-kramaric/nationalmannschaft/spieler/46580,27,£24.30m  
+304,Anthony Lopes,https://www.transfermarkt.co.uk/anthony-lopes/nationalmannschaft/spieler/60561,27,£18.00m  
+305,Beto,https://www.transfermarkt.co.uk/beto/nationalmannschaft/spieler/35242,36,£540k  
+306,Pepe,https://www.transfermarkt.co.uk/pepe/nationalmannschaft/spieler/14132,35,£1.80m  
+307,Bruno Alves,https://www.transfermarkt.co.uk/bruno-alves/nationalmannschaft/spieler/13121,36,£450k  
+308,Mário Rui,https://www.transfermarkt.co.uk/mario-rui/nationalmannschaft/spieler/87884,27,£12.60m  
+309,Cédric Soares,https://www.transfermarkt.co.uk/cedric-soares/nationalmannschaft/spieler/112988,26,£13.50m  
+310,Adrien Silva,https://www.transfermarkt.co.uk/adrien-silva/nationalmannschaft/spieler/56810,29,£18.00m  
+311,Manuel Fernandes,https://www.transfermarkt.co.uk/manuel-fernandes/nationalmannschaft/spieler/16791,32,£4.86m  
+312,João Mário,https://www.transfermarkt.co.uk/joao-mario/nationalmannschaft/spieler/149729,25,£22.50m  
+313,Bernardo Silva,https://www.transfermarkt.co.uk/bernardo-silva/nationalmannschaft/spieler/241641,23,£45.00m  
+314,Ricardo Quaresma,https://www.transfermarkt.co.uk/ricardo-quaresma/nationalmannschaft/spieler/4188,34,£1.80m  
+315,André Silva,https://www.transfermarkt.co.uk/andre-silva/nationalmannschaft/spieler/198008,22,£19.80m  
+316,Rui Patrício,https://www.transfermarkt.co.uk/rui-patricio/nationalmannschaft/spieler/45026,30,£14.40m  
+317,Rúben Dias,https://www.transfermarkt.co.uk/ruben-dias/nationalmannschaft/spieler/258004,21,£19.80m  
+318,José Fonte,https://www.transfermarkt.co.uk/jose-fonte/nationalmannschaft/spieler/33829,34,£1.80m  
+319,Raphaël Guerreiro,https://www.transfermarkt.co.uk/raphael-guerreiro/nationalmannschaft/spieler/170986,24,£16.20m  
+320,Ricardo Pereira,https://www.transfermarkt.co.uk/ricardo-pereira/nationalmannschaft/spieler/215876,24,£18.00m  
+321,William Carvalho,https://www.transfermarkt.co.uk/william-carvalho/nationalmannschaft/spieler/100131,26,£22.50m  
+322,João Moutinho,https://www.transfermarkt.co.uk/joao-moutinho/nationalmannschaft/spieler/29364,31,£9.00m  
+323,Bruno Fernandes,https://www.transfermarkt.co.uk/bruno-fernandes/nationalmannschaft/spieler/240306,23,£27.00m  
+324,Gonçalo Guedes,https://www.transfermarkt.co.uk/goncalo-guedes/nationalmannschaft/spieler/225122,21,£36.00m  
+325,Gelson Martins,https://www.transfermarkt.co.uk/gelson-martins/nationalmannschaft/spieler/257448,23,£31.50m  
+326,Cristiano Ronaldo ,https://www.transfermarkt.co.uk/cristiano-ronaldo/nationalmannschaft/spieler/8198,33,£90.00m  
+327,Mohamed El Shenawy,https://www.transfermarkt.co.uk/mohamed-el-shenawy/nationalmannschaft/spieler/134573,29,£900k  
+328,Essam El Hadary ,https://www.transfermarkt.co.uk/essam-el-hadary/nationalmannschaft/spieler/34385,45,£450k  
+329,Ali Gabr,https://www.transfermarkt.co.uk/ali-gabr/nationalmannschaft/spieler/122980,29,£1.35m  
+330,Ayman Ashraf,https://www.transfermarkt.co.uk/ayman-ashraf/nationalmannschaft/spieler/111522,27,£720k  
+331,Mohamed Abdel-Shafi,https://www.transfermarkt.co.uk/mohamed-abdel-shafi/nationalmannschaft/spieler/75280,32,£1.22m  
+332,Ahmed Fathi,https://www.transfermarkt.co.uk/ahmed-fathi/nationalmannschaft/spieler/38168,33,£900k  
+333,Mohamed Elneny,https://www.transfermarkt.co.uk/mohamed-elneny/nationalmannschaft/spieler/160438,25,£9.00m  
+334,Samy Morsy,https://www.transfermarkt.co.uk/samy-morsy/nationalmannschaft/spieler/123551,26,£675k  
+335,Ramadan Sobhi,https://www.transfermarkt.co.uk/ramadan-sobhi/nationalmannschaft/spieler/312017,21,£6.30m  
+336,Amr Warda ,https://www.transfermarkt.co.uk/amr-warda/nationalmannschaft/spieler/237641,24,£2.25m  
+337,Mohamed Salah,https://www.transfermarkt.co.uk/mohamed-salah/nationalmannschaft/spieler/148455,26,£135.00m  
+338,Marwan Mohsen,https://www.transfermarkt.co.uk/marwan-mohsen/nationalmannschaft/spieler/149532,29,£720k  
+339,Sherif Ekramy,https://www.transfermarkt.co.uk/sherif-ekramy/nationalmannschaft/spieler/30896,34,£720k  
+340,Ahmed Hegazy,https://www.transfermarkt.co.uk/ahmed-hegazy/nationalmannschaft/spieler/111524,27,£4.50m  
+341,Saad Samir,https://www.transfermarkt.co.uk/saad-samir/nationalmannschaft/spieler/114185,29,£900k  
+342,Mahmoud Hamdi,https://www.transfermarkt.co.uk/mahmoud-hamdi/nationalmannschaft/spieler/308526,23,£540k  
+343,Ahmed Elmohamady,https://www.transfermarkt.co.uk/ahmed-elmohamady/nationalmannschaft/spieler/66333,30,£2.70m  
+344,Omar Gaber,https://www.transfermarkt.co.uk/omar-gaber/nationalmannschaft/spieler/144340,26,£540k  
+345,Tarek Hamed,https://www.transfermarkt.co.uk/tarek-hamed/nationalmannschaft/spieler/149530,29,£900k  
+346,Abdallah Said ,https://www.transfermarkt.co.uk/abdallah-said/nationalmannschaft/spieler/66362,32,£1.35m  
+347,Trezeguet,https://www.transfermarkt.co.uk/trezeguet/nationalmannschaft/spieler/234189,23,£3.15m  
+348,Kahraba,https://www.transfermarkt.co.uk/kahraba/nationalmannschaft/spieler/176072,24,£2.07m  
+349,Shikabala,https://www.transfermarkt.co.uk/shikabala/nationalmannschaft/spieler/28463,32,£653k  
+350,Thibaut Courtois,https://www.transfermarkt.co.uk/thibaut-courtois/nationalmannschaft/spieler/108390,26,£54.00m  
+351,Koen Casteels,https://www.transfermarkt.co.uk/koen-casteels/nationalmannschaft/spieler/108880,25,£5.40m  
+352,Jan Vertonghen,https://www.transfermarkt.co.uk/jan-vertonghen/nationalmannschaft/spieler/43250,31,£28.80m  
+353,Thomas Vermaelen,https://www.transfermarkt.co.uk/thomas-vermaelen/nationalmannschaft/spieler/15904,32,£4.50m  
+354,Thomas Meunier,https://www.transfermarkt.co.uk/thomas-meunier/nationalmannschaft/spieler/100986,26,£13.50m  
+355,Youri Tielemans,https://www.transfermarkt.co.uk/youri-tielemans/nationalmannschaft/spieler/249565,21,£18.00m  
+356,Mousa Dembélé,https://www.transfermarkt.co.uk/mousa-dembele/nationalmannschaft/spieler/19368,30,£16.20m  
+357,Kevin De Bruyne,https://www.transfermarkt.co.uk/kevin-de-bruyne/nationalmannschaft/spieler/88755,26,£135.00m  
+358,Yannick Carrasco,https://www.transfermarkt.co.uk/yannick-carrasco/nationalmannschaft/spieler/140776,24,£22.50m  
+359,Nacer Chadli,https://www.transfermarkt.co.uk/nacer-chadli/nationalmannschaft/spieler/59631,28,£9.00m  
+360,Romelu Lukaku,https://www.transfermarkt.co.uk/romelu-lukaku/nationalmannschaft/spieler/96341,25,£81.00m  
+361,Dries Mertens,https://www.transfermarkt.co.uk/dries-mertens/nationalmannschaft/spieler/56416,31,£27.00m  
+362,Simon Mignolet,https://www.transfermarkt.co.uk/simon-mignolet/nationalmannschaft/spieler/50219,30,£9.00m  
+363,Toby Alderweireld,https://www.transfermarkt.co.uk/toby-alderweireld/nationalmannschaft/spieler/42710,29,£36.00m  
+364,Vincent Kompany,https://www.transfermarkt.co.uk/vincent-kompany/nationalmannschaft/spieler/9594,32,£9.00m  
+365,Dedryck Boyata,https://www.transfermarkt.co.uk/dedryck-boyata/nationalmannschaft/spieler/88262,27,£1.80m  
+366,Leander Dendoncker,https://www.transfermarkt.co.uk/leander-dendoncker/nationalmannschaft/spieler/168157,23,£15.30m  
+367,Axel Witsel,https://www.transfermarkt.co.uk/axel-witsel/nationalmannschaft/spieler/35047,29,£16.20m  
+368,Marouane Fellaini,https://www.transfermarkt.co.uk/marouane-fellaini/nationalmannschaft/spieler/39679,30,£10.80m  
+369,Eden Hazard ,https://www.transfermarkt.co.uk/eden-hazard/nationalmannschaft/spieler/50202,27,£99.00m  
+370,Thorgan Hazard,https://www.transfermarkt.co.uk/thorgan-hazard/nationalmannschaft/spieler/102226,25,£19.80m  
+371,Adnan Januzaj,https://www.transfermarkt.co.uk/adnan-januzaj/nationalmannschaft/spieler/177847,23,£10.80m  
+372,Michy Batshuayi,https://www.transfermarkt.co.uk/michy-batshuayi/nationalmannschaft/spieler/179184,24,£36.00m  
+373,Yann Sommer,https://www.transfermarkt.co.uk/yann-sommer/nationalmannschaft/spieler/42205,29,£7.20m  
+374,Yvon Mvogo,https://www.transfermarkt.co.uk/yvon-mvogo/nationalmannschaft/spieler/147051,24,£2.70m  
+375,Fabian Schär,https://www.transfermarkt.co.uk/fabian-schar/nationalmannschaft/spieler/135343,26,£2.70m  
+376,Ricardo Rodríguez,https://www.transfermarkt.co.uk/ricardo-rodriguez/nationalmannschaft/spieler/86784,25,£13.50m  
+377,Nico Elvedi,https://www.transfermarkt.co.uk/nico-elvedi/nationalmannschaft/spieler/192635,21,£15.30m  
+378,Stephan Lichtsteiner ,https://www.transfermarkt.co.uk/stephan-lichtsteiner/nationalmannschaft/spieler/2865,34,£1.35m  
+379,Denis Zakaria .,https://www.transfermarkt.co.uk/denis-zakaria/nationalmannschaft/spieler/334526,21,£18.00m  
+380,Valon Behrami,https://www.transfermarkt.co.uk/valon-behrami/nationalmannschaft/spieler/21905,33,£900k  
+381,Blerim Dzemaili,https://www.transfermarkt.co.uk/blerim-dzemaili/nationalmannschaft/spieler/9967,32,£2.25m  
+382,Xherdan Shaqiri,https://www.transfermarkt.co.uk/xherdan-shaqiri/nationalmannschaft/spieler/86792,26,£16.20m  
+383,Haris Seferovic,https://www.transfermarkt.co.uk/haris-seferovic/nationalmannschaft/spieler/109256,26,£3.60m  
+384,Mario Gavranovic,https://www.transfermarkt.co.uk/mario-gavranovic/nationalmannschaft/spieler/61380,28,£2.70m  
+385,Roman Bürki,https://www.transfermarkt.co.uk/roman-burki/nationalmannschaft/spieler/59027,27,£6.30m  
+386,Manuel Akanji,https://www.transfermarkt.co.uk/manuel-akanji/nationalmannschaft/spieler/284730,22,£19.80m  
+387,Johan Djourou,https://www.transfermarkt.co.uk/johan-djourou/nationalmannschaft/spieler/34561,31,£765k  
+388,François Moubandje,https://www.transfermarkt.co.uk/francois-moubandje/nationalmannschaft/spieler/123021,28,£2.25m  
+389,Michael Lang,https://www.transfermarkt.co.uk/michael-lang/nationalmannschaft/spieler/51346,27,£5.18m  
+390,Granit Xhaka,https://www.transfermarkt.co.uk/granit-xhaka/nationalmannschaft/spieler/111455,25,£36.00m  
+391,Gelson Fernandes ,https://www.transfermarkt.co.uk/gelson-fernandes/nationalmannschaft/spieler/20081,31,£1.35m  
+392,Remo Freuler,https://www.transfermarkt.co.uk/remo-freuler/nationalmannschaft/spieler/148252,26,£12.60m  
+393,Steven Zuber,https://www.transfermarkt.co.uk/steven-zuber/nationalmannschaft/spieler/68033,26,£6.30m  
+394,Breel Embolo,https://www.transfermarkt.co.uk/breel-embolo/nationalmannschaft/spieler/237662,21,£16.20m  
+395,Josip Drmic,https://www.transfermarkt.co.uk/josip-drmic/nationalmannschaft/spieler/140579,25,£3.15m  
+396,Karl-Johan Johnsson,https://www.transfermarkt.co.uk/karl-johan-johnsson/nationalmannschaft/spieler/112822,28,£2.25m  
+397,Robin Olsen,https://www.transfermarkt.co.uk/robin-olsen/nationalmannschaft/spieler/75458,28,£1.13m  
+398,Pontus Jansson,https://www.transfermarkt.co.uk/pontus-jansson/nationalmannschaft/spieler/125314,27,£5.40m  
+399,Filip Helander,https://www.transfermarkt.co.uk/filip-helander/nationalmannschaft/spieler/198067,25,£2.25m  
+400,Martin Olsson,https://www.transfermarkt.co.uk/martin-olsson/nationalmannschaft/spieler/38073,30,£4.50m  
+401,Emil Krafth,https://www.transfermarkt.co.uk/emil-krafth/nationalmannschaft/spieler/184528,23,£1.35m  
+402,Oscar Hiljemark,https://www.transfermarkt.co.uk/oscar-hiljemark/nationalmannschaft/spieler/158810,25,£3.15m  
+403,Sebastian Larsson,https://www.transfermarkt.co.uk/sebastian-larsson/nationalmannschaft/spieler/31720,33,£1.80m  
+404,Viktor Claesson,https://www.transfermarkt.co.uk/viktor-claesson/nationalmannschaft/spieler/116598,26,£7.20m  
+405,Jimmy Durmaz,https://www.transfermarkt.co.uk/jimmy-durmaz/nationalmannschaft/spieler/80205,29,£1.80m  
+406,John Guidetti,https://www.transfermarkt.co.uk/john-guidetti/nationalmannschaft/spieler/98596,26,£4.50m  
+407,Ola Toivonen,https://www.transfermarkt.co.uk/ola-toivonen/nationalmannschaft/spieler/36500,31,£1.35m  
+408,Kristoffer Nordfeldt,https://www.transfermarkt.co.uk/kristoffer-nordfeldt/nationalmannschaft/spieler/75890,29,£1.35m  
+409,Victor Lindelöf,https://www.transfermarkt.co.uk/victor-lindelof/nationalmannschaft/spieler/184573,23,£22.50m  
+410,Andreas Granqvist ,https://www.transfermarkt.co.uk/andreas-granqvist/nationalmannschaft/spieler/29213,33,£3.60m  
+411,Ludwig Augustinsson,https://www.transfermarkt.co.uk/ludwig-augustinsson/nationalmannschaft/spieler/170646,24,£6.75m  
+412,Mikael Lustig,https://www.transfermarkt.co.uk/mikael-lustig/nationalmannschaft/spieler/36025,31,£2.93m  
+413,Gustav Svensson,https://www.transfermarkt.co.uk/gustav-svensson/nationalmannschaft/spieler/41362,31,£675k  
+414,Albin Ekdal,https://www.transfermarkt.co.uk/albin-ekdal/nationalmannschaft/spieler/49275,28,£2.25m  
+415,Marcus Rohdén,https://www.transfermarkt.co.uk/marcus-rohden/nationalmannschaft/spieler/205809,27,£1.35m  
+416,Emil Forsberg,https://www.transfermarkt.co.uk/emil-forsberg/nationalmannschaft/spieler/111078,26,£22.50m  
+417,Marcus Berg,https://www.transfermarkt.co.uk/marcus-berg/nationalmannschaft/spieler/30418,31,£4.95m  
+418,Isaac Thelin,https://www.transfermarkt.co.uk/isaac-thelin/nationalmannschaft/spieler/201311,26,£2.25m  
+419,Rúnar Alex Rúnarsson,https://www.transfermarkt.co.uk/runar-alex-runarsson/nationalmannschaft/spieler/205657,23,£450k  
+420,Frederik Schram,https://www.transfermarkt.co.uk/frederik-schram/nationalmannschaft/spieler/279338,23,£225k  
+421,Sverrir Ingi Ingason,https://www.transfermarkt.co.uk/sverrir-ingi-ingason/nationalmannschaft/spieler/137648,24,£2.88m  
+422,Hördur Magnússon,https://www.transfermarkt.co.uk/hordur-magnusson/nationalmannschaft/spieler/130353,25,£1.35m  
+423,Ari Freyr Skúlason,https://www.transfermarkt.co.uk/ari-freyr-skulason/nationalmannschaft/spieler/42948,31,£810k  
+424,Samúel Fridjónsson,https://www.transfermarkt.co.uk/samuel-fridjonsson/nationalmannschaft/spieler/240408,22,£180k  
+425,Aron Gunnarsson ,https://www.transfermarkt.co.uk/aron-gunnarsson/nationalmannschaft/spieler/63821,29,£2.25m  
+426,Emil Hallfredsson,https://www.transfermarkt.co.uk/emil-hallfredsson/nationalmannschaft/spieler/22673,33,£540k  
+427,Gylfi Sigurdsson,https://www.transfermarkt.co.uk/gylfi-sigurdsson/nationalmannschaft/spieler/90466,28,£27.00m  
+428,Albert Gudmundsson,https://www.transfermarkt.co.uk/albert-gudmundsson/nationalmannschaft/spieler/305947,21,£1.35m  
+429,Alfred Finnbogason,https://www.transfermarkt.co.uk/alfred-finnbogason/nationalmannschaft/spieler/90024,29,£9.00m  
+430,Björn Sigurdarson,https://www.transfermarkt.co.uk/bjorn-sigurdarson/nationalmannschaft/spieler/88016,27,£1.26m  
+431,Hannes Thór Halldórsson,https://www.transfermarkt.co.uk/hannes-thor-halldorsson/nationalmannschaft/spieler/103440,34,£315k  
+432,Ragnar Sigurdsson,https://www.transfermarkt.co.uk/ragnar-sigurdsson/nationalmannschaft/spieler/46478,32,£3.60m  
+433,Hólmar Örn Eyjólfsson,https://www.transfermarkt.co.uk/holmar-orn-eyjolfsson/nationalmannschaft/spieler/54871,27,£1.80m  
+434,Kári Árnason,https://www.transfermarkt.co.uk/kari-arnason/nationalmannschaft/spieler/30338,35,£315k  
+435,Birkir Már Saevarsson,https://www.transfermarkt.co.uk/birkir-mar-saevarsson/nationalmannschaft/spieler/51188,33,£360k  
+436,Ólafur Ingi Skúlason,https://www.transfermarkt.co.uk/olafur-ingi-skulason/nationalmannschaft/spieler/9410,35,£180k  
+437,Birkir Bjarnason,https://www.transfermarkt.co.uk/birkir-bjarnason/nationalmannschaft/spieler/34453,30,£1.80m  
+438,Arnór Ingvi Traustason,https://www.transfermarkt.co.uk/arnor-ingvi-traustason/nationalmannschaft/spieler/153237,25,£900k  
+439,Johann Berg Gudmundsson,https://www.transfermarkt.co.uk/johann-berg-gudmundsson/nationalmannschaft/spieler/89231,27,£9.00m  
+440,Rúrik Gíslason,https://www.transfermarkt.co.uk/rurik-gislason/nationalmannschaft/spieler/15961,30,£585k  
+441,Jón Dadi Bödvarsson,https://www.transfermarkt.co.uk/jon-dadi-bodvarsson/nationalmannschaft/spieler/114090,26,£2.25m  
+442,Kosuke Nakamura,https://www.transfermarkt.co.uk/kosuke-nakamura/nationalmannschaft/spieler/165794,23,£1.35m  
+443,Eiji Kawashima,https://www.transfermarkt.co.uk/eiji-kawashima/nationalmannschaft/spieler/77383,35,£225k  
+444,Gen Shoji,https://www.transfermarkt.co.uk/gen-shoji/nationalmannschaft/spieler/164277,25,£1.53m  
+445,Wataru Endo,https://www.transfermarkt.co.uk/wataru-endo/nationalmannschaft/spieler/146310,25,£1.31m  
+446,Yuto Nagatomo,https://www.transfermarkt.co.uk/yuto-nagatomo/nationalmannschaft/spieler/79522,31,£3.15m  
+447,Gotoku Sakai,https://www.transfermarkt.co.uk/gotoku-sakai/nationalmannschaft/spieler/103310,27,£1.35m  
+448,Makoto Hasebe ,https://www.transfermarkt.co.uk/makoto-hasebe/nationalmannschaft/spieler/39259,34,£900k  
+449,Ryota Oshima,https://www.transfermarkt.co.uk/ryota-oshima/nationalmannschaft/spieler/164264,25,£1.04m  
+450,Takashi Inui,https://www.transfermarkt.co.uk/takashi-inui/nationalmannschaft/spieler/98249,30,£4.50m  
+451,Takashi Usami,https://www.transfermarkt.co.uk/takashi-usami/nationalmannschaft/spieler/111881,26,£1.13m  
+452,Yuya Osako,https://www.transfermarkt.co.uk/yuya-osako/nationalmannschaft/spieler/108650,28,£4.05m  
+453,Yoshinori Muto,https://www.transfermarkt.co.uk/yoshinori-muto/nationalmannschaft/spieler/230541,25,£5.40m  
+454,Masaaki Higashiguchi,https://www.transfermarkt.co.uk/masaaki-higashiguchi/nationalmannschaft/spieler/113712,32,£1.13m  
+455,Maya Yoshida,https://www.transfermarkt.co.uk/maya-yoshida/nationalmannschaft/spieler/81789,29,£6.30m  
+456,Tomoaki Makino,https://www.transfermarkt.co.uk/tomoaki-makino/nationalmannschaft/spieler/106064,31,£1.49m  
+457,Naomichi Ueda,https://www.transfermarkt.co.uk/naomichi-ueda/nationalmannschaft/spieler/188915,23,£990k  
+458,Hiroki Sakai,https://www.transfermarkt.co.uk/hiroki-sakai/nationalmannschaft/spieler/83002,28,£5.40m  
+459,Hotaru Yamaguchi,https://www.transfermarkt.co.uk/hotaru-yamaguchi/nationalmannschaft/spieler/118492,27,£1.35m  
+460,Gaku Shibasaki,https://www.transfermarkt.co.uk/gaku-shibasaki/nationalmannschaft/spieler/129693,26,£1.62m  
+461,Shinji Kagawa,https://www.transfermarkt.co.uk/shinji-kagawa/nationalmannschaft/spieler/81785,29,£11.70m  
+462,Genki Haraguchi,https://www.transfermarkt.co.uk/genki-haraguchi/nationalmannschaft/spieler/79377,27,£3.15m  
+463,Keisuke Honda,https://www.transfermarkt.co.uk/keisuke-honda/nationalmannschaft/spieler/66521,32,£3.60m  
+464,Shinji Okazaki,https://www.transfermarkt.co.uk/shinji-okazaki/nationalmannschaft/spieler/79642,32,£5.40m  
+465,Bono,https://www.transfermarkt.co.uk/bono/nationalmannschaft/spieler/207834,27,£2.70m  
+466,Munir,https://www.transfermarkt.co.uk/munir/nationalmannschaft/spieler/97925,29,£360k  
+467,Manuel da Costa,https://www.transfermarkt.co.uk/manuel-da-costa/nationalmannschaft/spieler/37398,32,£630k  
+468,Achraf Hakimi,https://www.transfermarkt.co.uk/achraf-hakimi/nationalmannschaft/spieler/398073,19,£4.50m  
+469,Youssef Aït Bennasser,https://www.transfermarkt.co.uk/youssef-ait-bennasser/nationalmannschaft/spieler/265569,21,£6.30m  
+470,Karim El Ahmadi,https://www.transfermarkt.co.uk/karim-el-ahmadi/nationalmannschaft/spieler/25523,33,£2.70m  
+471,Hakim Ziyech,https://www.transfermarkt.co.uk/hakim-ziyech/nationalmannschaft/spieler/217111,25,£22.50m  
+472,Younès Belhanda,https://www.transfermarkt.co.uk/younes-belhanda/nationalmannschaft/spieler/118022,28,£6.30m  
+473,Moubarak Boussoufa,https://www.transfermarkt.co.uk/moubarak-boussoufa/nationalmannschaft/spieler/23996,33,£1.17m  
+474,Nordin Amrabat,https://www.transfermarkt.co.uk/nordin-amrabat/nationalmannschaft/spieler/55619,31,£2.70m  
+475,Ayoub El Kaabi,https://www.transfermarkt.co.uk/ayoub-el-kaabi/nationalmannschaft/spieler/521127,24,£1.58m  
+476,Aziz Bouhaddouz,https://www.transfermarkt.co.uk/aziz-bouhaddouz/nationalmannschaft/spieler/49821,31,£720k  
+477,Ahmed Reda Tagnaouti,https://www.transfermarkt.co.uk/ahmed-reda-tagnaouti/nationalmannschaft/spieler/238997,22,£765k  
+478,Medhi Benatia ,https://www.transfermarkt.co.uk/medhi-benatia/nationalmannschaft/spieler/45124,31,£20.70m  
+479,Hamza Mendyl .,https://www.transfermarkt.co.uk/hamza-mendyl/nationalmannschaft/spieler/447221,20,£540k  
+480,Romain Saïss,https://www.transfermarkt.co.uk/romain-saiss/nationalmannschaft/spieler/204198,28,£5.40m  
+481,Sofyan Amrabat,https://www.transfermarkt.co.uk/sofyan-amrabat/nationalmannschaft/spieler/287579,21,£4.05m  
+482,Nabil Dirar,https://www.transfermarkt.co.uk/nabil-dirar/nationalmannschaft/spieler/42267,32,£1.80m  
+483,Amine Harit .,https://www.transfermarkt.co.uk/amine-harit/nationalmannschaft/spieler/372711,21,£22.50m  
+484,Fayçal Fajr,https://www.transfermarkt.co.uk/faycal-fajr/nationalmannschaft/spieler/174344,29,£2.25m  
+485,Mehdi Carcela-González,https://www.transfermarkt.co.uk/mehdi-carcela-gonzalez/nationalmannschaft/spieler/42714,28,£3.15m  
+486,Youssef En-Nesyri,https://www.transfermarkt.co.uk/youssef-en-nesyri/nationalmannschaft/spieler/433049,21,£1.62m  
+487,Khalid Boutaïb,https://www.transfermarkt.co.uk/khalid-boutaib/nationalmannschaft/spieler/231941,31,£1.58m  
+488,Franco Armani,https://www.transfermarkt.co.uk/franco-armani/nationalmannschaft/spieler/119634,31,£3.15m  
+489,Willy Caballero,https://www.transfermarkt.co.uk/willy-caballero/nationalmannschaft/spieler/19948,36,£900k  
+490,Marcos Rojo,https://www.transfermarkt.co.uk/marcos-rojo/nationalmannschaft/spieler/93176,28,£16.20m  
+491,Nicolás Tagliafico,https://www.transfermarkt.co.uk/nicolas-tagliafico/nationalmannschaft/spieler/131225,25,£10.80m  
+492,Gabriel Mercado,https://www.transfermarkt.co.uk/gabriel-mercado/nationalmannschaft/spieler/45319,31,£4.50m  
+493,Javier Mascherano,https://www.transfermarkt.co.uk/javier-mascherano/nationalmannschaft/spieler/19981,34,£4.50m  
+494,Éver Banega,https://www.transfermarkt.co.uk/ever-banega/nationalmannschaft/spieler/12249,29,£10.80m  
+495,Marcos Acuña,https://www.transfermarkt.co.uk/marcos-acuna/nationalmannschaft/spieler/60410,26,£13.50m  
+496,Lionel Messi ,https://www.transfermarkt.co.uk/lionel-messi/nationalmannschaft/spieler/28003,31,£162.00m  
+497,Eduardo Salvio,https://www.transfermarkt.co.uk/eduardo-salvio/nationalmannschaft/spieler/84535,27,£19.80m  
+498,Paulo Dybala,https://www.transfermarkt.co.uk/paulo-dybala/nationalmannschaft/spieler/206050,24,£99.00m  
+499,Gonzalo Higuaín,https://www.transfermarkt.co.uk/gonzalo-higuain/nationalmannschaft/spieler/39153,30,£54.00m  
+500,Nahuel Guzmán,https://www.transfermarkt.co.uk/nahuel-guzman/nationalmannschaft/spieler/87859,32,£2.70m  
+501,Nicolás Otamendi,https://www.transfermarkt.co.uk/nicolas-otamendi/nationalmannschaft/spieler/54781,30,£31.50m  
+502,Federico Fazio,https://www.transfermarkt.co.uk/federico-fazio/nationalmannschaft/spieler/45314,31,£11.70m  
+503,Cristian Ansaldi,https://www.transfermarkt.co.uk/cristian-ansaldi/nationalmannschaft/spieler/55854,31,£4.50m  
+504,Lucas Biglia,https://www.transfermarkt.co.uk/lucas-biglia/nationalmannschaft/spieler/26721,32,£13.50m  
+505,Giovani Lo Celso,https://www.transfermarkt.co.uk/giovani-lo-celso/nationalmannschaft/spieler/348795,22,£27.00m  
+506,Enzo Pérez .,https://www.transfermarkt.co.uk/enzo-perez/nationalmannschaft/spieler/56066,32,£2.25m  
+507,Maximiliano Meza .,https://www.transfermarkt.co.uk/maximiliano-meza/nationalmannschaft/spieler/282476,26,£10.80m  
+508,Ángel Di María,https://www.transfermarkt.co.uk/angel-di-maria/nationalmannschaft/spieler/45320,30,£36.00m  
+509,Cristian Pavón,https://www.transfermarkt.co.uk/cristian-pavon/nationalmannschaft/spieler/373170,22,£18.00m  
+510,Sergio Agüero,https://www.transfermarkt.co.uk/sergio-aguero/nationalmannschaft/spieler/26399,30,£72.00m  
+511,Jaime Penedo,https://www.transfermarkt.co.uk/jaime-penedo/nationalmannschaft/spieler/43851,36,£270k  
+512,Álex Rodríguez,https://www.transfermarkt.co.uk/alex-rodriguez/nationalmannschaft/spieler/230641,27,£158k  
+513,Adolfo Machado,https://www.transfermarkt.co.uk/adolfo-machado/nationalmannschaft/spieler/81286,33,£360k  
+514,Fidel Escobar,https://www.transfermarkt.co.uk/fidel-escobar/nationalmannschaft/spieler/345716,23,£158k  
+515,Luis Ovalle,https://www.transfermarkt.co.uk/luis-ovalle/nationalmannschaft/spieler/141331,29,£495k  
+516,Michael Murillo,https://www.transfermarkt.co.uk/michael-murillo/nationalmannschaft/spieler/354482,22,£450k  
+517,Gabriel Gómez,https://www.transfermarkt.co.uk/gabriel-gomez/nationalmannschaft/spieler/52028,34,£450k  
+518,Armando Cooper,https://www.transfermarkt.co.uk/armando-cooper/nationalmannschaft/spieler/122016,30,£405k  
+519,José Luis Rodríguez,https://www.transfermarkt.co.uk/jose-luis-rodriguez/nationalmannschaft/spieler/425028,20,£180k  
+520,Valentin Pimentel,https://www.transfermarkt.co.uk/valentin-pimentel/nationalmannschaft/spieler/376513,27,£315k  
+521,Abdiel Arroyo,https://www.transfermarkt.co.uk/abdiel-arroyo/nationalmannschaft/spieler/283472,24,£225k  
+522,Blas Pérez,https://www.transfermarkt.co.uk/blas-perez/nationalmannschaft/spieler/58109,37,£135k  
+523,José Calderón,https://www.transfermarkt.co.uk/jose-calderon/nationalmannschaft/spieler/116256,32,£180k  
+524,Román Torres ,https://www.transfermarkt.co.uk/roman-torres/nationalmannschaft/spieler/74182,32,£585k  
+525,Hárold Cummings,https://www.transfermarkt.co.uk/harold-cummings/nationalmannschaft/spieler/121790,26,£225k  
+526,Felipe Baloy .,https://www.transfermarkt.co.uk/felipe-baloy/nationalmannschaft/spieler/53581,37,£158k  
+527,Eric Davis,https://www.transfermarkt.co.uk/eric-davis/nationalmannschaft/spieler/121791,27,£383k  
+528,Aníbal Godoy,https://www.transfermarkt.co.uk/anibal-godoy/nationalmannschaft/spieler/161671,28,£720k  
+529,Ricardo Ávila,https://www.transfermarkt.co.uk/ricardo-avila/nationalmannschaft/spieler/440384,21,£225k  
+530,Yoel Bárcenas .,https://www.transfermarkt.co.uk/yoel-barcenas/nationalmannschaft/spieler/283473,24,£450k  
+531,Ismael Díaz,https://www.transfermarkt.co.uk/ismael-diaz/nationalmannschaft/spieler/243298,21,£270k  
+532,Gabriel Torres,https://www.transfermarkt.co.uk/gabriel-torres/nationalmannschaft/spieler/74532,29,£450k  
+533,Luis Tejada .,https://www.transfermarkt.co.uk/luis-tejada/nationalmannschaft/spieler/45474,36,£158k  
+534,Jordan Pickford,https://www.transfermarkt.co.uk/jordan-pickford/nationalmannschaft/spieler/130164,24,£27.00m  
+535,Nick Pope,https://www.transfermarkt.co.uk/nick-pope/nationalmannschaft/spieler/192080,26,£9.00m  
+536,Harry Maguire,https://www.transfermarkt.co.uk/harry-maguire/nationalmannschaft/spieler/177907,25,£22.50m  
+537,Gary Cahill,https://www.transfermarkt.co.uk/gary-cahill/nationalmannschaft/spieler/27511,32,£13.50m  
+538,Kyle Walker,https://www.transfermarkt.co.uk/kyle-walker/nationalmannschaft/spieler/95424,28,£45.00m  
+539,Kieran Trippier,https://www.transfermarkt.co.uk/kieran-trippier/nationalmannschaft/spieler/95810,27,£18.00m  
+540,Jordan Henderson,https://www.transfermarkt.co.uk/jordan-henderson/nationalmannschaft/spieler/61651,28,£22.50m  
+541,Ruben Loftus-Cheek,https://www.transfermarkt.co.uk/ruben-loftus-cheek/nationalmannschaft/spieler/202886,22,£13.50m  
+542,Dele Alli ,https://www.transfermarkt.co.uk/dele-alli/nationalmannschaft/spieler/207929,22,£90.00m  
+543,Raheem Sterling,https://www.transfermarkt.co.uk/raheem-sterling/nationalmannschaft/spieler/134425,23,£81.00m  
+544,Marcus Rashford,https://www.transfermarkt.co.uk/marcus-rashford/nationalmannschaft/spieler/258923,20,£58.50m  
+545,Danny Welbeck,https://www.transfermarkt.co.uk/danny-welbeck/nationalmannschaft/spieler/67063,27,£13.50m  
+546,Jack Butland,https://www.transfermarkt.co.uk/jack-butland/nationalmannschaft/spieler/128899,25,£19.80m  
+547,John Stones,https://www.transfermarkt.co.uk/john-stones/nationalmannschaft/spieler/186590,24,£45.00m  
+548,Phil Jones,https://www.transfermarkt.co.uk/phil-jones/nationalmannschaft/spieler/117996,26,£18.00m  
+549,Danny Rose,https://www.transfermarkt.co.uk/danny-rose/nationalmannschaft/spieler/50174,27,£27.00m  
+550,Trent Alexander-Arnold,https://www.transfermarkt.co.uk/trent-alexander-arnold/nationalmannschaft/spieler/314353,19,£22.50m  
+551,Eric Dier,https://www.transfermarkt.co.uk/eric-dier/nationalmannschaft/spieler/175722,24,£36.00m  
+552,Fabian Delph,https://www.transfermarkt.co.uk/fabian-delph/nationalmannschaft/spieler/50362,28,£13.50m  
+553,Ashley Young,https://www.transfermarkt.co.uk/ashley-young/nationalmannschaft/spieler/14086,32,£6.30m  
+554,Jesse Lingard,https://www.transfermarkt.co.uk/jesse-lingard/nationalmannschaft/spieler/141660,25,£31.50m  
+555,Harry Kane ,https://www.transfermarkt.co.uk/harry-kane/nationalmannschaft/spieler/132098,24,£135.00m  
+556,Jamie Vardy,https://www.transfermarkt.co.uk/jamie-vardy/nationalmannschaft/spieler/197838,31,£18.00m  
+557,Alireza Beiranvand .,https://www.transfermarkt.co.uk/alireza-beiranvand/nationalmannschaft/spieler/229081,25,£1.08m  
+558,Mohammad Rashid Mazaheri,https://www.transfermarkt.co.uk/mohammad-rashid-mazaheri/nationalmannschaft/spieler/232187,29,£810k  
+559,Majid Hosseini,https://www.transfermarkt.co.uk/majid-hosseini/nationalmannschaft/spieler/294767,22,£810k  
+560,Pejman Montazeri,https://www.transfermarkt.co.uk/pejman-montazeri/nationalmannschaft/spieler/90228,34,£360k  
+561,Ehsan Hajsafi .,https://www.transfermarkt.co.uk/ehsan-hajsafi/nationalmannschaft/spieler/77547,28,£1.35m  
+562,Omid Ebrahimi,https://www.transfermarkt.co.uk/omid-ebrahimi/nationalmannschaft/spieler/180218,30,£1.08m  
+563,Saeid Ezatolahi,https://www.transfermarkt.co.uk/saeid-ezatolahi/nationalmannschaft/spieler/249271,21,£1.08m  
+564,Vahid Amiri .,https://www.transfermarkt.co.uk/vahid-amiri/nationalmannschaft/spieler/279215,30,£1.08m  
+565,Alireza Jahanbakhsh,https://www.transfermarkt.co.uk/alireza-jahanbakhsh/nationalmannschaft/spieler/213268,24,£10.80m  
+566,Sardar Azmoun,https://www.transfermarkt.co.uk/sardar-azmoun/nationalmannschaft/spieler/180337,23,£8.10m  
+567,Saman Ghoddos,https://www.transfermarkt.co.uk/saman-ghoddos/nationalmannschaft/spieler/204294,24,£1.58m  
+568,Reza Ghoochannejhad,https://www.transfermarkt.co.uk/reza-ghoochannejhad/nationalmannschaft/spieler/39522,30,£1.35m  
+569,Amir Abedzadeh,https://www.transfermarkt.co.uk/amir-abedzadeh/nationalmannschaft/spieler/218431,25,£900k  
+570,Morteza Pouraliganji .,https://www.transfermarkt.co.uk/morteza-pouraliganji/nationalmannschaft/spieler/132563,26,£855k  
+571,Mohammad Reza Khanzadeh,https://www.transfermarkt.co.uk/mohammad-reza-khanzadeh/nationalmannschaft/spieler/209280,26,£630k  
+572,Milad Mohammadi .,https://www.transfermarkt.co.uk/milad-mohammadi/nationalmannschaft/spieler/333355,24,£2.52m  
+573,Ramin Rezaeian .,https://www.transfermarkt.co.uk/ramin-rezaeian/nationalmannschaft/spieler/188312,28,£900k  
+574,Roozbeh Cheshmi . ,https://www.transfermarkt.co.uk/roozbeh-cheshmi/nationalmannschaft/spieler/273879,25,£810k  
+575,Masoud Shojaei . ,https://www.transfermarkt.co.uk/masoud-shojaei/nationalmannschaft/spieler/26574,34,£630k  
+576,Mehdi Torabi,https://www.transfermarkt.co.uk/mehdi-torabi/nationalmannschaft/spieler/283833,23,£900k  
+577,Ashkan Dejagah .,https://www.transfermarkt.co.uk/ashkan-dejagah/nationalmannschaft/spieler/13979,31,£720k  
+578,Karim Ansarifard,https://www.transfermarkt.co.uk/karim-ansarifard/nationalmannschaft/spieler/133838,28,£3.60m  
+579,Mehdi Taremi .,https://www.transfermarkt.co.uk/mehdi-taremi/nationalmannschaft/spieler/307058,25,£1.53m  
+580,Daniel Akpeyi,https://www.transfermarkt.co.uk/daniel-akpeyi/nationalmannschaft/spieler/28725,31,£585k  
+581,Ikechukwu Ezenwa,https://www.transfermarkt.co.uk/ikechukwu-ezenwa/nationalmannschaft/spieler/81834,29,£135k  
+582,Leon Balogun .,https://www.transfermarkt.co.uk/leon-balogun/nationalmannschaft/spieler/56100,29,£1.80m  
+583,William Troost-Ekong,https://www.transfermarkt.co.uk/william-troost-ekong/nationalmannschaft/spieler/192875,24,£1.44m  
+584,Bryan Idowu,https://www.transfermarkt.co.uk/bryan-idowu/nationalmannschaft/spieler/178957,26,£1.35m  
+585,Wilfred Ndidi,https://www.transfermarkt.co.uk/wilfred-ndidi/nationalmannschaft/spieler/274839,21,£22.50m  
+586,Ogenyi Onazi,https://www.transfermarkt.co.uk/ogenyi-onazi/nationalmannschaft/spieler/131709,25,£3.15m  
+587,Joel Obi,https://www.transfermarkt.co.uk/joel-obi/nationalmannschaft/spieler/45581,27,£4.50m  
+588,John Ogu,https://www.transfermarkt.co.uk/john-ogu/nationalmannschaft/spieler/84700,30,£1.35m  
+589,Alex Iwobi,https://www.transfermarkt.co.uk/alex-iwobi/nationalmannschaft/spieler/242631,22,£13.50m  
+590,Kelechi Iheanacho,https://www.transfermarkt.co.uk/kelechi-iheanacho/nationalmannschaft/spieler/295330,21,£13.50m  
+591,Simy,https://www.transfermarkt.co.uk/simy/nationalmannschaft/spieler/194549,26,£1.35m  
+592,Francis Uzoho,https://www.transfermarkt.co.uk/francis-uzoho/nationalmannschaft/spieler/295360,19,£270k  
+593,Chidozie Awaziem,https://www.transfermarkt.co.uk/chidozie-awaziem/nationalmannschaft/spieler/358143,21,£5.40m  
+594,Kenneth Omeruo,https://www.transfermarkt.co.uk/kenneth-omeruo/nationalmannschaft/spieler/131708,24,£1.58m  
+595,Elderson,https://www.transfermarkt.co.uk/elderson/nationalmannschaft/spieler/59938,30,£630k  
+596,Tyronne Ebuehi,https://www.transfermarkt.co.uk/tyronne-ebuehi/nationalmannschaft/spieler/309944,22,£1.35m  
+597,John Mikel Obi ,https://www.transfermarkt.co.uk/john-mikel-obi/nationalmannschaft/spieler/30739,31,£4.95m  
+598,Abdullahi Shehu,https://www.transfermarkt.co.uk/abdullahi-shehu/nationalmannschaft/spieler/262687,25,£630k  
+599,Oghenekaro Etebo,https://www.transfermarkt.co.uk/oghenekaro-etebo/nationalmannschaft/spieler/409106,22,£1.35m  
+600,Victor Moses,https://www.transfermarkt.co.uk/victor-moses/nationalmannschaft/spieler/59866,27,£18.00m  
+601,Ahmed Musa,https://www.transfermarkt.co.uk/ahmed-musa/nationalmannschaft/spieler/168337,25,£13.50m  
+602,Odion Ighalo,https://www.transfermarkt.co.uk/odion-ighalo/nationalmannschaft/spieler/62121,29,£8.55m  
+603,Marko Dmitrovic,https://www.transfermarkt.co.uk/marko-dmitrovic/nationalmannschaft/spieler/94308,26,£3.60m  
+604,Vladimir Stojkovic,https://www.transfermarkt.co.uk/vladimir-stojkovic/nationalmannschaft/spieler/34400,34,£675k  
+605,Milos Veljkovic,https://www.transfermarkt.co.uk/milos-veljkovic/nationalmannschaft/spieler/202228,22,£5.85m  
+606,Branislav Ivanovic,https://www.transfermarkt.co.uk/branislav-ivanovic/nationalmannschaft/spieler/36827,34,£2.70m  
+607,Aleksandar Kolarov ,https://www.transfermarkt.co.uk/aleksandar-kolarov/nationalmannschaft/spieler/46156,32,£10.80m  
+608,Antonio Rukavina,https://www.transfermarkt.co.uk/antonio-rukavina/nationalmannschaft/spieler/27924,34,£900k  
+609,Luka Milivojevic,https://www.transfermarkt.co.uk/luka-milivojevic/nationalmannschaft/spieler/74300,27,£13.50m  
+610,Marko Grujic,https://www.transfermarkt.co.uk/marko-grujic/nationalmannschaft/spieler/222813,22,£4.50m  
+611,Dusan Tadic,https://www.transfermarkt.co.uk/dusan-tadic/nationalmannschaft/spieler/36139,29,£13.50m  
+612,Filip Kostic,https://www.transfermarkt.co.uk/filip-kostic/nationalmannschaft/spieler/161011,25,£5.40m  
+613,Aleksandar Mitrovic,https://www.transfermarkt.co.uk/aleksandar-mitrovic/nationalmannschaft/spieler/51152,23,£13.50m  
+614,Aleksandar Prijovic,https://www.transfermarkt.co.uk/aleksandar-prijovic/nationalmannschaft/spieler/61505,28,£5.40m  
+615,Predrag Rajkovic,https://www.transfermarkt.co.uk/predrag-rajkovic/nationalmannschaft/spieler/190263,22,£2.25m  
+616,Nikola Milenkovic,https://www.transfermarkt.co.uk/nikola-milenkovic/nationalmannschaft/spieler/413507,20,£8.10m  
+617,Uros Spajic,https://www.transfermarkt.co.uk/uros-spajic/nationalmannschaft/spieler/160222,25,£4.50m  
+618,Dusko Tosic,https://www.transfermarkt.co.uk/dusko-tosic/nationalmannschaft/spieler/17184,33,£1.80m  
+619,Milan Rodic,https://www.transfermarkt.co.uk/milan-rodic/nationalmannschaft/spieler/68978,27,£1.08m  
+620,Nemanja Matic,https://www.transfermarkt.co.uk/nemanja-matic/nationalmannschaft/spieler/74683,29,£36.00m  
+621,Sergej Milinkovic-Savic,https://www.transfermarkt.co.uk/sergej-milinkovic-savic/nationalmannschaft/spieler/266302,23,£81.00m  
+622,Andrija Zivkovic,https://www.transfermarkt.co.uk/andrija-zivkovic/nationalmannschaft/spieler/206843,21,£16.20m  
+623,Adem Ljajic,https://www.transfermarkt.co.uk/adem-ljajic/nationalmannschaft/spieler/69374,26,£11.70m  
+624,Nemanja Radonjic,https://www.transfermarkt.co.uk/nemanja-radonjic/nationalmannschaft/spieler/245078,22,£2.25m  
+625,Luka Jovic,https://www.transfermarkt.co.uk/luka-jovic/nationalmannschaft/spieler/257462,20,£7.20m  
+626,Guillermo Ochoa,https://www.transfermarkt.co.uk/guillermo-ochoa/nationalmannschaft/spieler/29559,32,£2.70m  
+627,Jesús Corona,https://www.transfermarkt.co.uk/jesus-corona/nationalmannschaft/spieler/29574,37,£1.35m  
+628,Héctor Moreno,https://www.transfermarkt.co.uk/hector-moreno/nationalmannschaft/spieler/51046,30,£3.60m  
+629,Edson Álvarez .,https://www.transfermarkt.co.uk/edson-alvarez/nationalmannschaft/spieler/401356,20,£1.80m  
+630,Miguel Layún,https://www.transfermarkt.co.uk/miguel-layun/nationalmannschaft/spieler/58576,29,£4.50m  
+631,Érick Gutiérrez .,https://www.transfermarkt.co.uk/erick-gutierrez/nationalmannschaft/spieler/298796,23,£4.50m  
+632,Jonathan dos Santos,https://www.transfermarkt.co.uk/jonathan-dos-santos/nationalmannschaft/spieler/60445,28,£4.28m  
+633,Hirving Lozano,https://www.transfermarkt.co.uk/hirving-lozano/nationalmannschaft/spieler/316889,22,£22.50m  
+634,Jesús Gallardo,https://www.transfermarkt.co.uk/jesus-gallardo/nationalmannschaft/spieler/344854,23,£2.70m  
+635,Carlos Vela,https://www.transfermarkt.co.uk/carlos-vela/nationalmannschaft/spieler/35773,29,£7.65m  
+636,Raúl Jiménez,https://www.transfermarkt.co.uk/raul-jimenez/nationalmannschaft/spieler/206040,27,£13.50m  
+637,Oribe Peralta,https://www.transfermarkt.co.uk/oribe-peralta/nationalmannschaft/spieler/53563,34,£1.35m  
+638,Alfredo Talavera,https://www.transfermarkt.co.uk/alfredo-talavera/nationalmannschaft/spieler/50965,35,£1.62m  
+639,Carlos Salcedo ,https://www.transfermarkt.co.uk/carlos-salcedo/nationalmannschaft/spieler/256866,24,£6.30m  
+640,Hugo Ayala,https://www.transfermarkt.co.uk/hugo-ayala/nationalmannschaft/spieler/52965,31,£2.25m  
+641,Rafael Márquez,https://www.transfermarkt.co.uk/rafael-marquez/nationalmannschaft/spieler/2904,39,£720k  
+642,Héctor Herrera,https://www.transfermarkt.co.uk/hector-herrera/nationalmannschaft/spieler/122043,28,£18.00m  
+643,Andrés Guardado ,https://www.transfermarkt.co.uk/andres-guardado/nationalmannschaft/spieler/20506,31,£4.50m  
+644,Marco Fabián,https://www.transfermarkt.co.uk/marco-fabian/nationalmannschaft/spieler/67685,28,£4.05m  
+645,Javier Aquino,https://www.transfermarkt.co.uk/javier-aquino/nationalmannschaft/spieler/111082,28,£4.50m  
+646,Jesús Corona,https://www.transfermarkt.co.uk/jesus-corona/nationalmannschaft/spieler/125165,25,£10.80m  
+647,Giovani dos Santos,https://www.transfermarkt.co.uk/giovani-dos-santos/nationalmannschaft/spieler/44674,29,£2.48m  
+648,Chicharito,https://www.transfermarkt.co.uk/chicharito/nationalmannschaft/spieler/50935,30,£13.50m  
+649,Fernando Muslera,https://www.transfermarkt.co.uk/fernando-muslera/nationalmannschaft/spieler/58088,32,£5.40m  
+650,Martín Silva,https://www.transfermarkt.co.uk/martin-silva/nationalmannschaft/spieler/76398,35,£1.80m  
+651,Diego Godín ,https://www.transfermarkt.co.uk/diego-godin/nationalmannschaft/spieler/54928,32,£31.50m  
+652,Gastón Silva,https://www.transfermarkt.co.uk/gaston-silva/nationalmannschaft/spieler/189452,24,£2.25m  
+653,Guillermo Varela,https://www.transfermarkt.co.uk/guillermo-varela/nationalmannschaft/spieler/188862,25,£1.80m  
+654,Lucas Torreira,https://www.transfermarkt.co.uk/lucas-torreira/nationalmannschaft/spieler/318077,22,£27.00m  
+655,Rodrigo Bentancur,https://www.transfermarkt.co.uk/rodrigo-bentancur/nationalmannschaft/spieler/354362,20,£13.50m  
+656,Carlos Sánchez,https://www.transfermarkt.co.uk/carlos-sanchez/nationalmannschaft/spieler/74373,33,£1.35m  
+657,Cristian Rodríguez,https://www.transfermarkt.co.uk/cristian-rodriguez/nationalmannschaft/spieler/33448,32,£450k  
+658,Jonathan Urretaviscaya,https://www.transfermarkt.co.uk/jonathan-urretaviscaya/nationalmannschaft/spieler/74621,28,£3.15m  
+659,Edinson Cavani,https://www.transfermarkt.co.uk/edinson-cavani/nationalmannschaft/spieler/48280,31,£54.00m  
+660,Cristhian Stuani,https://www.transfermarkt.co.uk/cristhian-stuani/nationalmannschaft/spieler/59323,31,£6.75m  
+661,Martín Campaña,https://www.transfermarkt.co.uk/martin-campana/nationalmannschaft/spieler/91755,29,£4.50m  
+662,José Giménez ,https://www.transfermarkt.co.uk/jose-gimenez/nationalmannschaft/spieler/250845,23,£40.50m  
+663,Sebastián Coates,https://www.transfermarkt.co.uk/sebastian-coates/nationalmannschaft/spieler/102427,27,£9.00m  
+664,Martín Cáceres,https://www.transfermarkt.co.uk/martin-caceres/nationalmannschaft/spieler/54935,31,£2.25m  
+665,Maxi Pereira,https://www.transfermarkt.co.uk/maxi-pereira/nationalmannschaft/spieler/57834,34,£900k  
+666,Matías Vecino,https://www.transfermarkt.co.uk/matias-vecino/nationalmannschaft/spieler/143812,26,£18.90m  
+667,Nahitan Nández,https://www.transfermarkt.co.uk/nahitan-nandez/nationalmannschaft/spieler/315063,22,£5.40m  
+668,Diego Laxalt,https://www.transfermarkt.co.uk/diego-laxalt/nationalmannschaft/spieler/230552,25,£11.70m  
+669,Giorgian de Arrascaeta,https://www.transfermarkt.co.uk/giorgian-de-arrascaeta/nationalmannschaft/spieler/248410,24,£8.10m  
+670,Luis Suárez,https://www.transfermarkt.co.uk/luis-suarez/nationalmannschaft/spieler/44352,31,£63.00m  
+671,Maximiliano Gómez,https://www.transfermarkt.co.uk/maximiliano-gomez/nationalmannschaft/spieler/396894,21,£22.50m  
+672,David de Gea,https://www.transfermarkt.co.uk/david-de-gea/nationalmannschaft/spieler/59377,27,£63.00m  
+673,Pepe Reina,https://www.transfermarkt.co.uk/pepe-reina/nationalmannschaft/spieler/7825,35,£900k  
+674,Sergio Ramos ,https://www.transfermarkt.co.uk/sergio-ramos/nationalmannschaft/spieler/25557,32,£40.50m  
+675,Jordi Alba,https://www.transfermarkt.co.uk/jordi-alba/nationalmannschaft/spieler/69751,29,£54.00m  
+676,Daniel Carvajal,https://www.transfermarkt.co.uk/daniel-carvajal/nationalmannschaft/spieler/138927,26,£54.00m  
+677,Álvaro Odriozola,https://www.transfermarkt.co.uk/alvaro-odriozola/nationalmannschaft/spieler/280730,22,£22.50m  
+678,Saúl Ñíguez,https://www.transfermarkt.co.uk/saul-niguez/nationalmannschaft/spieler/148928,23,£63.00m  
+679,Thiago,https://www.transfermarkt.co.uk/thiago/nationalmannschaft/spieler/60444,27,£54.00m  
+680,Isco,https://www.transfermarkt.co.uk/isco/nationalmannschaft/spieler/85288,26,£67.50m  
+681,Marco Asensio .,https://www.transfermarkt.co.uk/marco-asensio/nationalmannschaft/spieler/296622,22,£67.50m  
+682,Iago Aspas,https://www.transfermarkt.co.uk/iago-aspas/nationalmannschaft/spieler/72047,30,£22.50m  
+683,Rodrigo,https://www.transfermarkt.co.uk/rodrigo/nationalmannschaft/spieler/131505,27,£36.00m  
+684,Kepa Arrizabalaga,https://www.transfermarkt.co.uk/kepa-arrizabalaga/nationalmannschaft/spieler/192279,23,£18.00m  
+685,Gerard Piqué,https://www.transfermarkt.co.uk/gerard-pique/nationalmannschaft/spieler/18944,31,£45.00m  
+686,Nacho Fernández,https://www.transfermarkt.co.uk/nacho-fernandez/nationalmannschaft/spieler/58884,28,£27.00m  
+687,Nacho Monreal,https://www.transfermarkt.co.uk/nacho-monreal/nationalmannschaft/spieler/43003,32,£11.70m  
+688,César Azpilicueta,https://www.transfermarkt.co.uk/cesar-azpilicueta/nationalmannschaft/spieler/57500,28,£36.00m  
+689,Sergio Busquets,https://www.transfermarkt.co.uk/sergio-busquets/nationalmannschaft/spieler/65230,29,£72.00m  
+690,Koke,https://www.transfermarkt.co.uk/koke/nationalmannschaft/spieler/74229,26,£63.00m  
+691,Andrés Iniesta,https://www.transfermarkt.co.uk/andres-iniesta/nationalmannschaft/spieler/7600,34,£9.00m  
+692,David Silva,https://www.transfermarkt.co.uk/david-silva/nationalmannschaft/spieler/35518,32,£27.00m  
+693,Lucas Vázquez,https://www.transfermarkt.co.uk/lucas-vazquez/nationalmannschaft/spieler/221316,26,£22.50m  
+694,Diego Costa .,https://www.transfermarkt.co.uk/diego-costa/nationalmannschaft/spieler/44779,29,£54.00m  
+695,Seung-Gyu Kim,https://www.transfermarkt.co.uk/seung-gyu-kim/nationalmannschaft/spieler/92076,27,£1.13m  
+696,Hyeon-uh Jo,https://www.transfermarkt.co.uk/hyeon-uh-jo/nationalmannschaft/spieler/260171,26,£450k  
+697,Young-gwon Kim,https://www.transfermarkt.co.uk/young-gwon-kim/nationalmannschaft/spieler/126640,28,£765k  
+698,Seung-hyeon Jung,https://www.transfermarkt.co.uk/seung-hyeon-jung/nationalmannschaft/spieler/379438,24,£405k  
+699,Ju-ho Park ,https://www.transfermarkt.co.uk/ju-ho-park/nationalmannschaft/spieler/111900,31,£675k  
+700,Yong Lee,https://www.transfermarkt.co.uk/yong-lee/nationalmannschaft/spieler/92078,31,£450k  
+701,Woo-young Jung,https://www.transfermarkt.co.uk/woo-young-jung/nationalmannschaft/spieler/171935,28,£720k  
+702,Yo-han Ko,https://www.transfermarkt.co.uk/yo-han-ko/nationalmannschaft/spieler/135850,30,£743k  
+703,Min-uh Kim,https://www.transfermarkt.co.uk/min-uh-kim/nationalmannschaft/spieler/128376,28,£1.08m  
+704,Jae-song Lee,https://www.transfermarkt.co.uk/jae-song-lee/nationalmannschaft/spieler/314398,25,£1.80m  
+705,Seung-Woo Lee,https://www.transfermarkt.co.uk/seung-woo-lee/nationalmannschaft/spieler/280239,20,£900k  
+706,Shin-uk Kim,https://www.transfermarkt.co.uk/shin-uk-kim/nationalmannschaft/spieler/152689,30,£1.62m  
+707,Jin-hyeon Kim,https://www.transfermarkt.co.uk/jin-hyeon-kim/nationalmannschaft/spieler/118487,30,£1.13m  
+708,Ban-seok Oh,https://www.transfermarkt.co.uk/ban-seok-oh/nationalmannschaft/spieler/221889,30,£765k  
+709,Hyun-soo Jang,https://www.transfermarkt.co.uk/hyun-soo-jang/nationalmannschaft/spieler/194387,26,£585k  
+710,Young-seon Yun,https://www.transfermarkt.co.uk/young-seon-yun/nationalmannschaft/spieler/151807,29,£360k  
+711,Cheol Hong,https://www.transfermarkt.co.uk/cheol-hong/nationalmannschaft/spieler/151791,27,£675k  
+712,Sung-yong Ki ,https://www.transfermarkt.co.uk/sung-yong-ki/nationalmannschaft/spieler/81796,29,£6.30m  
+713,Se-jong Ju,https://www.transfermarkt.co.uk/se-jong-ju/nationalmannschaft/spieler/217345,27,£675k  
+714,Seon-min Mun .,https://www.transfermarkt.co.uk/seon-min-mun/nationalmannschaft/spieler/225342,26,£405k  
+715,Ja-cheol Koo,https://www.transfermarkt.co.uk/ja-cheol-koo/nationalmannschaft/spieler/91841,29,£3.15m  
+716,Heung-min Son,https://www.transfermarkt.co.uk/heung-min-son/nationalmannschaft/spieler/91845,25,£45.00m  
+717,Hee-chan Hwang,https://www.transfermarkt.co.uk/hee-chan-hwang/nationalmannschaft/spieler/292246,22,£9.00m  
+718,Kasper Schmeichel,https://www.transfermarkt.co.uk/kasper-schmeichel/nationalmannschaft/spieler/16911,31,£9.00m  
+719,Frederik Rönnow,https://www.transfermarkt.co.uk/frederik-ronnow/nationalmannschaft/spieler/107775,25,£2.70m  
+720,Jannik Vestergaard,https://www.transfermarkt.co.uk/jannik-vestergaard/nationalmannschaft/spieler/99331,25,£12.60m  
+721,Zanka,https://www.transfermarkt.co.uk/zanka/nationalmannschaft/spieler/52059,28,£4.50m  
+722,Jens Stryger Larsen,https://www.transfermarkt.co.uk/jens-stryger-larsen/nationalmannschaft/spieler/69646,27,£1.80m  
+723,Lasse Schöne,https://www.transfermarkt.co.uk/lasse-schone/nationalmannschaft/spieler/34784,32,£2.70m  
+724,Thomas Delaney,https://www.transfermarkt.co.uk/thomas-delaney/nationalmannschaft/spieler/91849,26,£10.80m  
+725,Michael Krohn-Dehli,https://www.transfermarkt.co.uk/michael-krohn-dehli/nationalmannschaft/spieler/18006,35,£720k  
+726,Pione Sisto,https://www.transfermarkt.co.uk/pione-sisto/nationalmannschaft/spieler/252641,23,£13.50m  
+727,Nicolai Jörgensen,https://www.transfermarkt.co.uk/nicolai-jorgensen/nationalmannschaft/spieler/100399,27,£12.60m  
+728,Yussuf Poulsen ,https://www.transfermarkt.co.uk/yussuf-poulsen/nationalmannschaft/spieler/157635,24,£9.00m  
+729,Andreas Cornelius,https://www.transfermarkt.co.uk/andreas-cornelius/nationalmannschaft/spieler/203412,25,£2.70m  
+730,Jonas Lössl,https://www.transfermarkt.co.uk/jonas-lossl/nationalmannschaft/spieler/48870,29,£4.50m  
+731,Andreas Christensen,https://www.transfermarkt.co.uk/andreas-christensen/nationalmannschaft/spieler/196948,22,£36.00m  
+732,Simon Kjær ,https://www.transfermarkt.co.uk/simon-kjaer/nationalmannschaft/spieler/48859,29,£9.00m  
+733,Jonas Knudsen,https://www.transfermarkt.co.uk/jonas-knudsen/nationalmannschaft/spieler/144904,25,£900k  
+734,Henrik Dalsgaard,https://www.transfermarkt.co.uk/henrik-dalsgaard/nationalmannschaft/spieler/93315,28,£1.35m  
+735,William Kvist ,https://www.transfermarkt.co.uk/william-kvist/nationalmannschaft/spieler/36787,33,£450k  
+736,Lukas Lerager,https://www.transfermarkt.co.uk/lukas-lerager/nationalmannschaft/spieler/167105,24,£5.40m  
+737,Christian Eriksen,https://www.transfermarkt.co.uk/christian-eriksen/nationalmannschaft/spieler/69633,26,£72.00m  
+738,Viktor Fischer,https://www.transfermarkt.co.uk/viktor-fischer/nationalmannschaft/spieler/95755,24,£3.15m  
+739,Kasper Dolberg,https://www.transfermarkt.co.uk/kasper-dolberg/nationalmannschaft/spieler/283196,20,£10.80m  
+740,Martin Braithwaite,https://www.transfermarkt.co.uk/martin-braithwaite/nationalmannschaft/spieler/95732,27,£7.20m  
